@@ -1,0 +1,1156 @@
+company_id,year,CFO_sign,CFI_sign,CFF_sign,pattern_label
+ABB,2012-12,+,-,-,Reinvestor / Debt Repayer
+ABB,2014-03,+,+,+,Asset Seller / Raising Capital
+ABB,2015-03,-,-,+,Distress Raising Capital
+ABB,2016-03,+,-,-,Reinvestor / Debt Repayer
+ABB,2017-03,+,-,-,Reinvestor / Debt Repayer
+ABB,2018-03,+,-,+,Reinvestor / Raising Capital
+ABB,2019-03,+,-,+,Reinvestor / Raising Capital
+ABB,2020-03,+,-,+,Reinvestor / Raising Capital
+ABB,2021-03,+,-,-,Reinvestor / Debt Repayer
+ABB,2022-03,+,-,-,Reinvestor / Debt Repayer
+ABB,2023-03,+,-,+,Reinvestor / Raising Capital
+ABB,2024-03,+,-,-,Reinvestor / Debt Repayer
+ABB,2024-09,-,-,-,UNKNOWN
+ADANIENSOL,2014-03,+,+,+,Asset Seller / Raising Capital
+ADANIENSOL,2015-03,-,-,+,Distress Raising Capital
+ADANIENSOL,2016-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENSOL,2017-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENSOL,2018-03,+,-,+,Reinvestor / Raising Capital
+ADANIENSOL,2019-03,+,-,+,Reinvestor / Raising Capital
+ADANIENSOL,2020-03,+,-,+,Reinvestor / Raising Capital
+ADANIENSOL,2021-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENSOL,2022-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENSOL,2023-03,+,-,+,Reinvestor / Raising Capital
+ADANIENSOL,2024-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENSOL,2024-09,-,-,-,UNKNOWN
+ADANIENT,2013-03,+,-,+,Reinvestor / Raising Capital
+ADANIENT,2014-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENT,2015-03,+,-,+,Reinvestor / Raising Capital
+ADANIENT,2016-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENT,2017-03,+,-,+,Reinvestor / Raising Capital
+ADANIENT,2018-03,+,-,+,Reinvestor / Raising Capital
+ADANIENT,2019-03,+,+,-,Asset Seller / Debt Repayer
+ADANIENT,2020-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENT,2021-03,+,-,+,Reinvestor / Raising Capital
+ADANIENT,2022-03,+,-,+,Reinvestor / Raising Capital
+ADANIENT,2023-03,+,-,-,Reinvestor / Debt Repayer
+ADANIENT,2024-03,+,-,+,Reinvestor / Raising Capital
+ADANIENT,2024-09,-,-,-,UNKNOWN
+ADANIGREEN,2017-03,+,-,+,Reinvestor / Raising Capital
+ADANIGREEN,2018-03,+,-,+,Reinvestor / Raising Capital
+ADANIGREEN,2019-03,+,-,+,Reinvestor / Raising Capital
+ADANIGREEN,2020-03,+,-,+,Reinvestor / Raising Capital
+ADANIGREEN,2021-03,+,-,+,Reinvestor / Raising Capital
+ADANIGREEN,2022-03,+,-,+,Reinvestor / Raising Capital
+ADANIGREEN,2023-03,+,-,-,Reinvestor / Debt Repayer
+ADANIGREEN,2024-03,+,-,+,Reinvestor / Raising Capital
+ADANIGREEN,2024-09,-,-,-,UNKNOWN
+ADANIPORTS,2013-03,+,-,+,Reinvestor / Raising Capital
+ADANIPORTS,2014-03,+,-,+,Reinvestor / Raising Capital
+ADANIPORTS,2015-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPORTS,2016-03,+,-,+,Reinvestor / Raising Capital
+ADANIPORTS,2017-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPORTS,2018-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPORTS,2019-03,+,-,+,Reinvestor / Raising Capital
+ADANIPORTS,2020-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPORTS,2021-03,+,-,+,Reinvestor / Raising Capital
+ADANIPORTS,2022-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPORTS,2023-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPORTS,2024-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPORTS,2024-09,-,-,-,UNKNOWN
+ADANIPOWER,2013-03,+,-,+,Reinvestor / Raising Capital
+ADANIPOWER,2014-03,+,-,+,Reinvestor / Raising Capital
+ADANIPOWER,2015-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPOWER,2016-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPOWER,2017-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPOWER,2018-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPOWER,2019-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPOWER,2020-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPOWER,2021-03,+,-,-,Reinvestor / Debt Repayer
+ADANIPOWER,2022-03,+,+,-,Asset Seller / Debt Repayer
+ADANIPOWER,2023-03,+,+,-,Asset Seller / Debt Repayer
+ADANIPOWER,2024-03,+,+,-,Asset Seller / Debt Repayer
+ADANIPOWER,2024-09,-,-,-,UNKNOWN
+AMBUJACEM,2012-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2013-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2014-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2015-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2016-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2017-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2018-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2019-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2020-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2021-12,+,-,-,Reinvestor / Debt Repayer
+AMBUJACEM,2023-03,+,-,+,Reinvestor / Raising Capital
+AMBUJACEM,2024-03,+,-,+,Reinvestor / Raising Capital
+AMBUJACEM,2024-09,-,-,-,UNKNOWN
+APOLLOHOSP,2013-03,+,-,+,Reinvestor / Raising Capital
+APOLLOHOSP,2014-03,+,-,-,Reinvestor / Debt Repayer
+APOLLOHOSP,2015-03,+,-,+,Reinvestor / Raising Capital
+APOLLOHOSP,2016-03,+,-,+,Reinvestor / Raising Capital
+APOLLOHOSP,2017-03,+,-,+,Reinvestor / Raising Capital
+APOLLOHOSP,2018-03,+,-,-,Reinvestor / Debt Repayer
+APOLLOHOSP,2019-03,+,-,-,Reinvestor / Debt Repayer
+APOLLOHOSP,2020-03,+,-,-,Reinvestor / Debt Repayer
+APOLLOHOSP,2021-03,+,-,-,Reinvestor / Debt Repayer
+APOLLOHOSP,2022-03,+,-,-,Reinvestor / Debt Repayer
+APOLLOHOSP,2023-03,+,-,-,Reinvestor / Debt Repayer
+APOLLOHOSP,2024-03,+,-,-,Reinvestor / Debt Repayer
+APOLLOHOSP,2024-09,-,-,-,UNKNOWN
+ASIANPAINT,2013-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2014-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2015-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2016-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2017-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2018-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2019-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2020-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2021-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2022-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2023-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2024-03,+,-,-,Reinvestor / Debt Repayer
+ASIANPAINT,2024-09,-,-,-,UNKNOWN
+ATGL,2018-03,-,-,-,UNKNOWN
+ATGL,2019-03,-,-,-,UNKNOWN
+ATGL,2020-03,-,-,-,UNKNOWN
+ATGL,2021-03,-,-,-,UNKNOWN
+ATGL,2022-03,-,-,-,UNKNOWN
+ATGL,2023-03,-,-,-,UNKNOWN
+ATGL,2024-03,-,-,-,UNKNOWN
+ATGL,2024-09,-,-,-,UNKNOWN
+AXISBANK,2013-03,+,-,+,Reinvestor / Raising Capital
+AXISBANK,2014-03,+,-,+,Reinvestor / Raising Capital
+AXISBANK,2015-03,-,-,+,Distress Raising Capital
+AXISBANK,2016-03,-,+,+,Distress Raising Cap/Selling Assets
+AXISBANK,2017-03,+,-,-,Reinvestor / Debt Repayer
+AXISBANK,2018-03,-,-,+,Distress Raising Capital
+AXISBANK,2019-03,+,-,+,Reinvestor / Raising Capital
+AXISBANK,2020-03,+,-,+,Reinvestor / Raising Capital
+AXISBANK,2021-03,+,-,+,Reinvestor / Raising Capital
+AXISBANK,2022-03,+,-,+,Reinvestor / Raising Capital
+AXISBANK,2023-03,+,-,+,Reinvestor / Raising Capital
+AXISBANK,2024-03,-,-,+,Distress Raising Capital
+BAJAJ-AUTO,2013-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2014-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2015-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2016-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2017-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2018-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2019-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2020-03,+,+,-,Asset Seller / Debt Repayer
+BAJAJ-AUTO,2021-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2022-03,+,+,-,Asset Seller / Debt Repayer
+BAJAJ-AUTO,2023-03,+,+,-,Asset Seller / Debt Repayer
+BAJAJ-AUTO,2024-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJ-AUTO,2024-09,-,-,-,UNKNOWN
+BAJAJFINSV,2013-03,-,+,+,Distress Raising Cap/Selling Assets
+BAJAJFINSV,2014-03,-,+,+,Distress Raising Cap/Selling Assets
+BAJAJFINSV,2015-03,-,+,+,Distress Raising Cap/Selling Assets
+BAJAJFINSV,2016-03,-,-,+,Distress Raising Capital
+BAJAJFINSV,2017-03,-,+,+,Distress Raising Cap/Selling Assets
+BAJAJFINSV,2018-03,-,-,+,Distress Raising Capital
+BAJAJFINSV,2019-03,-,-,+,Distress Raising Capital
+BAJAJFINSV,2020-03,-,-,+,Distress Raising Capital
+BAJAJFINSV,2021-03,+,-,+,Reinvestor / Raising Capital
+BAJAJFINSV,2022-03,-,+,+,Distress Raising Cap/Selling Assets
+BAJAJFINSV,2023-03,-,-,+,Distress Raising Capital
+BAJAJFINSV,2024-03,-,-,+,Distress Raising Capital
+BAJAJFINSV,2024-09,-,-,-,UNKNOWN
+BAJAJHLDNG,2013-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2014-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2015-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2016-03,+,+,-,Asset Seller / Debt Repayer
+BAJAJHLDNG,2017-03,-,-,-,Distress Burning Cash
+BAJAJHLDNG,2018-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2019-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2020-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2021-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2022-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2023-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2024-03,+,-,-,Reinvestor / Debt Repayer
+BAJAJHLDNG,2024-09,-,-,-,UNKNOWN
+BAJFINANCE,2015-03,-,-,+,Distress Raising Capital
+BAJFINANCE,2016-03,-,-,+,Distress Raising Capital
+BAJFINANCE,2017-03,-,-,+,Distress Raising Capital
+BAJFINANCE,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+BAJFINANCE,2019-03,-,-,+,Distress Raising Capital
+BAJFINANCE,2020-03,-,-,+,Distress Raising Capital
+BAJFINANCE,2021-03,-,-,+,Distress Raising Capital
+BAJFINANCE,2022-03,-,+,+,Distress Raising Cap/Selling Assets
+BAJFINANCE,2023-03,-,-,+,Distress Raising Capital
+BAJFINANCE,2024-03,-,-,+,Distress Raising Capital
+BAJFINANCE,2024-09,-,-,-,UNKNOWN
+BANKBARODA,2013-03,+,-,-,Reinvestor / Debt Repayer
+BANKBARODA,2014-03,+,-,+,Reinvestor / Raising Capital
+BANKBARODA,2015-03,+,-,-,Reinvestor / Debt Repayer
+BANKBARODA,2016-03,-,-,-,Distress Burning Cash
+BANKBARODA,2017-03,+,-,-,Reinvestor / Debt Repayer
+BANKBARODA,2018-03,-,-,+,Distress Raising Capital
+BANKBARODA,2019-03,-,-,+,Distress Raising Capital
+BANKBARODA,2020-03,+,-,+,Reinvestor / Raising Capital
+BANKBARODA,2021-03,-,-,-,Distress Burning Cash
+BANKBARODA,2022-03,+,-,-,Reinvestor / Debt Repayer
+BANKBARODA,2023-03,-,-,-,Distress Burning Cash
+BANKBARODA,2024-03,-,-,+,Distress Raising Capital
+BEL,2013-03,-,+,-,Distress Asset Seller
+BEL,2014-03,-,+,-,Distress Asset Seller
+BEL,2015-03,+,-,-,Reinvestor / Debt Repayer
+BEL,2016-03,+,-,-,Reinvestor / Debt Repayer
+BEL,2017-03,-,+,-,Distress Asset Seller
+BEL,2018-03,-,-,-,Distress Burning Cash
+BEL,2019-03,+,-,-,Reinvestor / Debt Repayer
+BEL,2020-03,+,-,-,Reinvestor / Debt Repayer
+BEL,2021-03,+,-,-,Reinvestor / Debt Repayer
+BEL,2022-03,+,-,-,Reinvestor / Debt Repayer
+BEL,2023-03,+,+,-,Asset Seller / Debt Repayer
+BEL,2024-03,+,-,-,Reinvestor / Debt Repayer
+BEL,2024-09,-,-,-,UNKNOWN
+BHARTIARTL,2013-03,+,-,-,Reinvestor / Debt Repayer
+BHARTIARTL,2014-03,+,-,+,Reinvestor / Raising Capital
+BHARTIARTL,2015-03,+,-,-,Reinvestor / Debt Repayer
+BHARTIARTL,2016-03,+,-,-,Reinvestor / Debt Repayer
+BHARTIARTL,2017-03,+,-,-,Reinvestor / Debt Repayer
+BHARTIARTL,2018-03,+,-,+,Reinvestor / Raising Capital
+BHARTIARTL,2019-03,+,-,+,Reinvestor / Raising Capital
+BHARTIARTL,2020-03,+,-,+,Reinvestor / Raising Capital
+BHARTIARTL,2021-03,+,-,-,Reinvestor / Debt Repayer
+BHARTIARTL,2022-03,+,-,-,Reinvestor / Debt Repayer
+BHARTIARTL,2023-03,+,-,-,Reinvestor / Debt Repayer
+BHARTIARTL,2024-03,+,-,-,Reinvestor / Debt Repayer
+BHARTIARTL,2024-09,-,-,-,UNKNOWN
+BHEL,2013-03,+,-,+,Reinvestor / Raising Capital
+BHEL,2014-03,+,-,+,Reinvestor / Raising Capital
+BHEL,2015-03,+,+,-,Asset Seller / Debt Repayer
+BHEL,2016-03,+,+,-,Asset Seller / Debt Repayer
+BHEL,2017-03,+,-,-,Reinvestor / Debt Repayer
+BHEL,2018-03,+,+,-,Asset Seller / Debt Repayer
+BHEL,2019-03,-,+,-,Distress Asset Seller
+BHEL,2020-03,-,+,+,Distress Raising Cap/Selling Assets
+BHEL,2021-03,+,-,-,Reinvestor / Debt Repayer
+BHEL,2022-03,+,-,-,Reinvestor / Debt Repayer
+BHEL,2023-03,-,+,+,Distress Raising Cap/Selling Assets
+BHEL,2024-03,-,+,+,Distress Raising Cap/Selling Assets
+BHEL,2024-09,-,-,-,UNKNOWN
+BOSCHLTD,2012-12,+,-,-,Reinvestor / Debt Repayer
+BOSCHLTD,2013-12,+,-,-,Reinvestor / Debt Repayer
+BOSCHLTD,2015-03,+,-,-,Reinvestor / Debt Repayer
+BOSCHLTD,2016-03,+,-,-,Reinvestor / Debt Repayer
+BOSCHLTD,2017-03,+,+,-,Asset Seller / Debt Repayer
+BOSCHLTD,2018-03,+,-,-,Reinvestor / Debt Repayer
+BOSCHLTD,2019-03,+,+,-,Asset Seller / Debt Repayer
+BOSCHLTD,2020-03,+,-,-,Reinvestor / Debt Repayer
+BOSCHLTD,2021-03,+,-,-,Reinvestor / Debt Repayer
+BOSCHLTD,2022-03,+,-,-,Reinvestor / Debt Repayer
+BOSCHLTD,2023-03,+,+,-,Asset Seller / Debt Repayer
+BOSCHLTD,2024-03,+,+,-,Asset Seller / Debt Repayer
+BOSCHLTD,2024-09,-,-,-,UNKNOWN
+BPCL,2013-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2014-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2015-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2016-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2017-03,+,-,+,Reinvestor / Raising Capital
+BPCL,2018-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2019-03,+,-,+,Reinvestor / Raising Capital
+BPCL,2020-03,+,-,+,Reinvestor / Raising Capital
+BPCL,2021-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2022-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2023-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2024-03,+,-,-,Reinvestor / Debt Repayer
+BPCL,2024-09,-,-,-,UNKNOWN
+BRITANNIA,2013-03,+,+,-,Asset Seller / Debt Repayer
+BRITANNIA,2014-03,+,-,-,Reinvestor / Debt Repayer
+BRITANNIA,2015-03,+,-,-,Reinvestor / Debt Repayer
+BRITANNIA,2016-03,+,-,-,Reinvestor / Debt Repayer
+BRITANNIA,2017-03,+,-,-,Reinvestor / Debt Repayer
+BRITANNIA,2018-03,+,-,-,Reinvestor / Debt Repayer
+BRITANNIA,2019-03,+,-,-,Reinvestor / Debt Repayer
+BRITANNIA,2020-03,+,-,+,Reinvestor / Raising Capital
+BRITANNIA,2021-03,+,+,-,Asset Seller / Debt Repayer
+BRITANNIA,2022-03,+,+,-,Asset Seller / Debt Repayer
+BRITANNIA,2023-03,+,-,-,Reinvestor / Debt Repayer
+BRITANNIA,2024-03,+,+,-,Asset Seller / Debt Repayer
+BRITANNIA,2024-09,-,-,-,UNKNOWN
+CANBK,2013-03,+,-,-,Reinvestor / Debt Repayer
+CANBK,2014-03,+,-,-,Reinvestor / Debt Repayer
+CANBK,2015-03,+,-,-,Reinvestor / Debt Repayer
+CANBK,2016-03,+,-,-,Reinvestor / Debt Repayer
+CANBK,2017-03,+,-,+,Reinvestor / Raising Capital
+CANBK,2018-03,-,-,+,Distress Raising Capital
+CANBK,2019-03,+,-,-,Reinvestor / Debt Repayer
+CANBK,2020-03,-,-,+,Distress Raising Capital
+CANBK,2021-03,+,-,+,Reinvestor / Raising Capital
+CANBK,2022-03,+,-,+,Reinvestor / Raising Capital
+CANBK,2023-03,-,-,+,Distress Raising Capital
+CANBK,2024-03,+,-,-,Reinvestor / Debt Repayer
+CHOLAFIN,2013-03,-,+,+,Distress Raising Cap/Selling Assets
+CHOLAFIN,2014-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2015-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2016-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2017-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2018-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2019-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2020-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2021-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2022-03,-,+,+,Distress Raising Cap/Selling Assets
+CHOLAFIN,2023-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2024-03,-,-,+,Distress Raising Capital
+CHOLAFIN,2024-09,-,-,-,UNKNOWN
+CIPLA,2013-03,+,-,+,Reinvestor / Raising Capital
+CIPLA,2014-03,+,-,-,Reinvestor / Debt Repayer
+CIPLA,2015-03,+,-,+,Reinvestor / Raising Capital
+CIPLA,2016-03,+,-,+,Reinvestor / Raising Capital
+CIPLA,2017-03,+,-,-,Reinvestor / Debt Repayer
+CIPLA,2018-03,+,-,-,Reinvestor / Debt Repayer
+CIPLA,2019-03,+,-,-,Reinvestor / Debt Repayer
+CIPLA,2020-03,+,+,-,Asset Seller / Debt Repayer
+CIPLA,2021-03,+,-,-,Reinvestor / Debt Repayer
+CIPLA,2022-03,+,-,-,Reinvestor / Debt Repayer
+CIPLA,2023-03,+,-,-,Reinvestor / Debt Repayer
+CIPLA,2024-03,+,-,-,Reinvestor / Debt Repayer
+CIPLA,2024-09,-,-,-,UNKNOWN
+COALINDIA,2013-03,+,-,-,Reinvestor / Debt Repayer
+COALINDIA,2014-03,+,+,-,Asset Seller / Debt Repayer
+COALINDIA,2015-03,+,+,-,Asset Seller / Debt Repayer
+COALINDIA,2016-03,+,+,-,Asset Seller / Debt Repayer
+COALINDIA,2017-03,+,+,-,Asset Seller / Debt Repayer
+COALINDIA,2018-03,+,-,-,Reinvestor / Debt Repayer
+COALINDIA,2019-03,+,-,-,Reinvestor / Debt Repayer
+COALINDIA,2020-03,+,+,-,Asset Seller / Debt Repayer
+COALINDIA,2021-03,+,+,-,Asset Seller / Debt Repayer
+COALINDIA,2022-03,+,-,-,Reinvestor / Debt Repayer
+COALINDIA,2023-03,+,-,-,Reinvestor / Debt Repayer
+COALINDIA,2024-03,+,-,-,Reinvestor / Debt Repayer
+COALINDIA,2024-09,-,-,-,UNKNOWN
+DABUR,2013-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2014-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2015-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2016-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2017-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2018-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2019-03,+,+,-,Asset Seller / Debt Repayer
+DABUR,2020-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2021-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2022-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2023-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2024-03,+,-,-,Reinvestor / Debt Repayer
+DABUR,2024-09,-,-,-,UNKNOWN
+DIVISLAB,2013-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2014-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2015-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2016-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2017-03,+,-,+,Reinvestor / Raising Capital
+DIVISLAB,2018-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2019-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2020-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2021-03,+,+,-,Asset Seller / Debt Repayer
+DIVISLAB,2022-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2023-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2024-03,+,-,-,Reinvestor / Debt Repayer
+DIVISLAB,2024-09,-,-,-,UNKNOWN
+DLF,2013-03,+,+,-,Asset Seller / Debt Repayer
+DLF,2014-03,+,+,-,Asset Seller / Debt Repayer
+DLF,2015-03,+,+,-,Asset Seller / Debt Repayer
+DLF,2016-03,+,-,-,Reinvestor / Debt Repayer
+DLF,2017-03,-,+,+,Distress Raising Cap/Selling Assets
+DLF,2018-03,+,-,-,Reinvestor / Debt Repayer
+DLF,2019-03,+,+,+,Asset Seller / Raising Capital
+DLF,2020-03,+,+,-,Asset Seller / Debt Repayer
+DLF,2021-03,+,+,-,Asset Seller / Debt Repayer
+DLF,2022-03,+,+,-,Asset Seller / Debt Repayer
+DLF,2023-03,+,-,-,Reinvestor / Debt Repayer
+DLF,2024-03,+,-,+,Reinvestor / Raising Capital
+DLF,2024-09,-,-,-,UNKNOWN
+DMART,2013-03,+,-,+,Reinvestor / Raising Capital
+DMART,2014-03,+,-,+,Reinvestor / Raising Capital
+DMART,2015-03,+,-,+,Reinvestor / Raising Capital
+DMART,2016-03,+,-,+,Reinvestor / Raising Capital
+DMART,2017-03,+,-,+,Reinvestor / Raising Capital
+DMART,2018-03,+,+,-,Asset Seller / Debt Repayer
+DMART,2019-03,+,-,+,Reinvestor / Raising Capital
+DMART,2020-03,+,-,+,Reinvestor / Raising Capital
+DMART,2021-03,+,-,-,Reinvestor / Debt Repayer
+DMART,2022-03,+,-,-,Reinvestor / Debt Repayer
+DMART,2023-03,+,-,-,Reinvestor / Debt Repayer
+DMART,2024-03,+,-,-,Reinvestor / Debt Repayer
+DMART,2024-09,-,-,-,UNKNOWN
+DRREDDY,2013-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2014-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2015-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2016-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2017-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2018-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2019-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2020-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2021-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2022-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2023-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2024-03,+,-,-,Reinvestor / Debt Repayer
+DRREDDY,2024-09,-,-,-,UNKNOWN
+EICHERMOT,2012-12,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2013-12,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2014-12,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2016-03,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2017-03,+,-,+,Reinvestor / Raising Capital
+EICHERMOT,2018-03,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2019-03,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2020-03,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2021-03,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2022-03,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2023-03,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2024-03,+,-,-,Reinvestor / Debt Repayer
+EICHERMOT,2024-09,-,-,-,UNKNOWN
+GAIL,2013-03,+,-,+,Reinvestor / Raising Capital
+GAIL,2014-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2015-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2016-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2017-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2018-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2019-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2020-03,+,-,+,Reinvestor / Raising Capital
+GAIL,2021-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2022-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2023-03,+,-,+,Reinvestor / Raising Capital
+GAIL,2024-03,+,-,-,Reinvestor / Debt Repayer
+GAIL,2024-09,-,-,-,UNKNOWN
+GODREJCP,2013-03,+,-,+,Reinvestor / Raising Capital
+GODREJCP,2014-03,+,-,-,Reinvestor / Debt Repayer
+GODREJCP,2015-03,+,-,-,Reinvestor / Debt Repayer
+GODREJCP,2016-03,+,-,-,Reinvestor / Debt Repayer
+GODREJCP,2017-03,+,-,+,Reinvestor / Raising Capital
+GODREJCP,2018-03,+,-,-,Reinvestor / Debt Repayer
+GODREJCP,2019-03,+,+,-,Asset Seller / Debt Repayer
+GODREJCP,2020-03,+,-,-,Reinvestor / Debt Repayer
+GODREJCP,2021-03,+,-,-,Reinvestor / Debt Repayer
+GODREJCP,2022-03,+,-,-,Reinvestor / Debt Repayer
+GODREJCP,2023-03,+,-,-,Reinvestor / Debt Repayer
+GODREJCP,2024-03,+,-,+,Reinvestor / Raising Capital
+GODREJCP,2024-09,-,-,-,UNKNOWN
+GRASIM,2013-03,+,-,+,Reinvestor / Raising Capital
+GRASIM,2014-03,+,-,-,Reinvestor / Debt Repayer
+GRASIM,2015-03,+,-,-,Reinvestor / Debt Repayer
+GRASIM,2016-03,+,-,-,Reinvestor / Debt Repayer
+GRASIM,2017-03,+,-,-,Reinvestor / Debt Repayer
+GRASIM,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+GRASIM,2019-03,-,-,+,Distress Raising Capital
+GRASIM,2020-03,+,-,-,Reinvestor / Debt Repayer
+GRASIM,2021-03,+,-,-,Reinvestor / Debt Repayer
+GRASIM,2022-03,+,-,-,Reinvestor / Debt Repayer
+GRASIM,2023-03,-,-,+,Distress Raising Capital
+GRASIM,2024-03,-,-,+,Distress Raising Capital
+GRASIM,2024-09,-,-,-,UNKNOWN
+HAL,2013-03,-,-,-,UNKNOWN
+HAL,2014-03,-,-,-,UNKNOWN
+HAL,2015-03,-,-,-,UNKNOWN
+HAL,2016-03,-,-,-,UNKNOWN
+HAL,2017-03,-,+,-,Distress Asset Seller
+HAL,2018-03,-,+,-,Distress Asset Seller
+HAL,2019-03,-,+,+,Distress Raising Cap/Selling Assets
+HAL,2020-03,+,-,+,Reinvestor / Raising Capital
+HAL,2021-03,+,-,-,Reinvestor / Debt Repayer
+HAL,2022-03,+,-,-,Reinvestor / Debt Repayer
+HAL,2023-03,+,-,-,Reinvestor / Debt Repayer
+HAL,2024-03,+,-,-,Reinvestor / Debt Repayer
+HAL,2024-09,-,-,-,UNKNOWN
+HAVELLS,2013-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2014-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2015-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2016-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2017-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2018-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2019-03,+,+,-,Asset Seller / Debt Repayer
+HAVELLS,2020-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2021-03,+,-,+,Reinvestor / Raising Capital
+HAVELLS,2022-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2023-03,+,+,-,Asset Seller / Debt Repayer
+HAVELLS,2024-03,+,-,-,Reinvestor / Debt Repayer
+HAVELLS,2024-09,-,-,-,UNKNOWN
+HCLTECH,2013-06,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2014-06,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2015-06,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2016-03,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2017-03,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2018-03,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2019-03,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2020-03,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2021-03,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2022-03,+,+,-,Asset Seller / Debt Repayer
+HCLTECH,2023-03,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2024-03,+,-,-,Reinvestor / Debt Repayer
+HCLTECH,2024-09,-,-,-,UNKNOWN
+HDFCBANK,2013-03,-,-,+,Distress Raising Capital
+HDFCBANK,2014-03,+,-,+,Reinvestor / Raising Capital
+HDFCBANK,2015-03,-,-,+,Distress Raising Capital
+HDFCBANK,2016-03,-,-,+,Distress Raising Capital
+HDFCBANK,2017-03,+,-,-,Reinvestor / Debt Repayer
+HDFCBANK,2018-03,+,-,+,Reinvestor / Raising Capital
+HDFCBANK,2019-03,-,-,+,Distress Raising Capital
+HDFCBANK,2020-03,-,-,+,Distress Raising Capital
+HDFCBANK,2021-03,+,-,-,Reinvestor / Debt Repayer
+HDFCBANK,2022-03,-,-,+,Distress Raising Capital
+HDFCBANK,2023-03,+,-,+,Reinvestor / Raising Capital
+HDFCBANK,2024-03,+,+,-,Asset Seller / Debt Repayer
+HDFCLIFE,2013-03,-,-,-,UNKNOWN
+HDFCLIFE,2014-03,-,-,-,UNKNOWN
+HDFCLIFE,2015-03,+,-,-,Reinvestor / Debt Repayer
+HDFCLIFE,2016-03,+,-,-,Reinvestor / Debt Repayer
+HDFCLIFE,2017-03,+,-,-,Reinvestor / Debt Repayer
+HDFCLIFE,2018-03,+,-,-,Reinvestor / Debt Repayer
+HDFCLIFE,2019-03,+,-,-,Reinvestor / Debt Repayer
+HDFCLIFE,2020-03,+,-,+,Reinvestor / Raising Capital
+HDFCLIFE,2021-03,+,-,+,Reinvestor / Raising Capital
+HDFCLIFE,2022-03,+,-,-,Reinvestor / Debt Repayer
+HDFCLIFE,2023-03,+,-,+,Reinvestor / Raising Capital
+HDFCLIFE,2024-03,+,-,-,Reinvestor / Debt Repayer
+HDFCLIFE,2024-09,-,-,-,UNKNOWN
+HEROMOTOCO,2014-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2015-03,+,+,-,Asset Seller / Debt Repayer
+HEROMOTOCO,2016-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2017-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2018-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2019-03,+,+,-,Asset Seller / Debt Repayer
+HEROMOTOCO,2020-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2021-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2022-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2023-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2024-03,+,-,-,Reinvestor / Debt Repayer
+HEROMOTOCO,2024-09,-,-,-,UNKNOWN
+HINDALCO,2013-03,+,-,+,Reinvestor / Raising Capital
+HINDALCO,2014-03,+,-,+,Reinvestor / Raising Capital
+HINDALCO,2015-03,+,-,-,Reinvestor / Debt Repayer
+HINDALCO,2016-03,+,-,-,Reinvestor / Debt Repayer
+HINDALCO,2017-03,+,-,-,Reinvestor / Debt Repayer
+HINDALCO,2018-03,+,+,-,Asset Seller / Debt Repayer
+HINDALCO,2019-03,+,-,-,Reinvestor / Debt Repayer
+HINDALCO,2020-03,+,-,+,Reinvestor / Raising Capital
+HINDALCO,2021-03,+,-,-,Reinvestor / Debt Repayer
+HINDALCO,2022-03,+,-,-,Reinvestor / Debt Repayer
+HINDALCO,2023-03,+,-,-,Reinvestor / Debt Repayer
+HINDALCO,2024-03,+,-,-,Reinvestor / Debt Repayer
+HINDALCO,2024-09,-,-,-,UNKNOWN
+HINDUNILVR,2013-03,+,+,-,Asset Seller / Debt Repayer
+HINDUNILVR,2014-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2015-03,+,+,-,Asset Seller / Debt Repayer
+HINDUNILVR,2016-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2017-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2018-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2019-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2020-03,+,+,-,Asset Seller / Debt Repayer
+HINDUNILVR,2021-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2022-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2023-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2024-03,+,-,-,Reinvestor / Debt Repayer
+HINDUNILVR,2024-09,-,-,-,UNKNOWN
+ICICIBANK,2013-03,+,-,+,Reinvestor / Raising Capital
+ICICIBANK,2014-03,+,-,+,Reinvestor / Raising Capital
+ICICIBANK,2015-03,-,-,+,Distress Raising Capital
+ICICIBANK,2016-03,+,-,+,Reinvestor / Raising Capital
+ICICIBANK,2017-03,+,-,-,Reinvestor / Debt Repayer
+ICICIBANK,2018-03,+,-,+,Reinvestor / Raising Capital
+ICICIBANK,2019-03,+,-,-,Reinvestor / Debt Repayer
+ICICIBANK,2020-03,+,-,+,Reinvestor / Raising Capital
+ICICIBANK,2021-03,+,-,-,Reinvestor / Debt Repayer
+ICICIBANK,2022-03,+,-,+,Reinvestor / Raising Capital
+ICICIBANK,2023-03,-,-,+,Distress Raising Capital
+ICICIBANK,2024-03,+,-,+,Reinvestor / Raising Capital
+ICICIGI,2013-03,+,-,+,Reinvestor / Raising Capital
+ICICIGI,2014-03,+,-,+,Reinvestor / Raising Capital
+ICICIGI,2015-03,-,+,-,Distress Asset Seller
+ICICIGI,2016-03,+,-,-,Reinvestor / Debt Repayer
+ICICIGI,2017-03,+,-,+,Reinvestor / Raising Capital
+ICICIGI,2018-03,+,-,-,Reinvestor / Debt Repayer
+ICICIGI,2019-03,+,-,-,Reinvestor / Debt Repayer
+ICICIGI,2020-03,+,-,-,Reinvestor / Debt Repayer
+ICICIGI,2021-03,+,-,-,Reinvestor / Debt Repayer
+ICICIGI,2022-03,+,+,-,Asset Seller / Debt Repayer
+ICICIGI,2023-03,+,-,-,Reinvestor / Debt Repayer
+ICICIGI,2024-03,+,-,-,Reinvestor / Debt Repayer
+ICICIGI,2024-09,-,-,-,UNKNOWN
+ICICIPRULI,2013-03,-,+,-,Distress Asset Seller
+ICICIPRULI,2014-03,-,+,-,Distress Asset Seller
+ICICIPRULI,2015-03,+,-,-,Reinvestor / Debt Repayer
+ICICIPRULI,2016-03,+,+,-,Asset Seller / Debt Repayer
+ICICIPRULI,2017-03,+,-,-,Reinvestor / Debt Repayer
+ICICIPRULI,2018-03,+,-,-,Reinvestor / Debt Repayer
+ICICIPRULI,2019-03,+,-,-,Reinvestor / Debt Repayer
+ICICIPRULI,2020-03,+,-,-,Reinvestor / Debt Repayer
+ICICIPRULI,2021-03,+,-,+,Reinvestor / Raising Capital
+ICICIPRULI,2022-03,+,-,-,Reinvestor / Debt Repayer
+ICICIPRULI,2023-03,+,-,-,Reinvestor / Debt Repayer
+ICICIPRULI,2024-03,-,+,-,Distress Asset Seller
+ICICIPRULI,2024-09,-,-,-,UNKNOWN
+INDIGO,2013-03,+,-,+,Reinvestor / Raising Capital
+INDIGO,2014-03,+,-,+,Reinvestor / Raising Capital
+INDIGO,2015-03,+,-,-,Reinvestor / Debt Repayer
+INDIGO,2016-03,+,-,-,Reinvestor / Debt Repayer
+INDIGO,2017-03,+,-,-,Reinvestor / Debt Repayer
+INDIGO,2018-03,+,-,+,Reinvestor / Raising Capital
+INDIGO,2019-03,+,-,-,Reinvestor / Debt Repayer
+INDIGO,2020-03,+,-,-,Reinvestor / Debt Repayer
+INDIGO,2021-03,-,+,-,Distress Asset Seller
+INDIGO,2022-03,+,+,-,Asset Seller / Debt Repayer
+INDIGO,2023-03,+,-,-,Reinvestor / Debt Repayer
+INDIGO,2024-03,+,-,-,Reinvestor / Debt Repayer
+INDIGO,2024-09,-,-,-,UNKNOWN
+INDUSINDBK,2013-03,-,-,+,Distress Raising Capital
+INDUSINDBK,2014-03,-,-,+,Distress Raising Capital
+INDUSINDBK,2015-03,-,-,+,Distress Raising Capital
+INDUSINDBK,2016-03,-,-,+,Distress Raising Capital
+INDUSINDBK,2017-03,+,-,-,Reinvestor / Debt Repayer
+INDUSINDBK,2018-03,-,-,+,Distress Raising Capital
+INDUSINDBK,2019-03,-,-,+,Distress Raising Capital
+INDUSINDBK,2020-03,-,+,+,Distress Raising Cap/Selling Assets
+INDUSINDBK,2021-03,+,-,-,Reinvestor / Debt Repayer
+INDUSINDBK,2022-03,+,-,-,Reinvestor / Debt Repayer
+INDUSINDBK,2023-03,-,-,+,Distress Raising Capital
+INDUSINDBK,2024-03,-,-,-,Distress Burning Cash
+INFY,2013-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2014-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2015-03,+,+,-,Asset Seller / Debt Repayer
+INFY,2016-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2017-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2018-03,+,+,-,Asset Seller / Debt Repayer
+INFY,2019-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2020-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2021-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2022-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2023-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2024-03,+,-,-,Reinvestor / Debt Repayer
+INFY,2024-09,-,-,-,UNKNOWN
+IOC,2013-03,+,-,+,Reinvestor / Raising Capital
+IOC,2014-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2015-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2016-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2017-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2018-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2019-03,+,-,+,Reinvestor / Raising Capital
+IOC,2020-03,+,-,+,Reinvestor / Raising Capital
+IOC,2021-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2022-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2023-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2024-03,+,-,-,Reinvestor / Debt Repayer
+IOC,2024-09,-,-,-,UNKNOWN
+IRCTC,2015-03,+,-,-,Reinvestor / Debt Repayer
+IRCTC,2016-03,+,+,-,Asset Seller / Debt Repayer
+IRCTC,2017-03,+,+,-,Asset Seller / Debt Repayer
+IRCTC,2018-03,+,+,-,Asset Seller / Debt Repayer
+IRCTC,2019-03,+,-,-,Reinvestor / Debt Repayer
+IRCTC,2020-03,+,+,-,Asset Seller / Debt Repayer
+IRCTC,2021-03,+,-,-,Reinvestor / Debt Repayer
+IRCTC,2022-03,+,-,-,Reinvestor / Debt Repayer
+IRCTC,2023-03,+,-,-,Reinvestor / Debt Repayer
+IRCTC,2024-03,+,-,-,Reinvestor / Debt Repayer
+IRCTC,2024-09,-,-,-,UNKNOWN
+IRFC,2013-03,-,-,-,UNKNOWN
+IRFC,2014-03,-,-,-,UNKNOWN
+IRFC,2015-03,-,-,-,UNKNOWN
+IRFC,2016-03,-,+,+,Distress Raising Cap/Selling Assets
+IRFC,2017-03,-,+,+,Distress Raising Cap/Selling Assets
+IRFC,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+IRFC,2019-03,-,+,+,Distress Raising Cap/Selling Assets
+IRFC,2020-03,-,+,+,Distress Raising Cap/Selling Assets
+IRFC,2021-03,-,+,+,Distress Raising Cap/Selling Assets
+IRFC,2022-03,-,-,+,Distress Raising Capital
+IRFC,2023-03,-,+,+,Distress Raising Cap/Selling Assets
+IRFC,2024-03,+,-,-,Reinvestor / Debt Repayer
+IRFC,2024-09,-,-,-,UNKNOWN
+ITC,2013-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2014-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2015-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2016-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2017-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2018-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2019-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2020-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2021-03,+,+,-,Asset Seller / Debt Repayer
+ITC,2022-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2023-03,+,-,-,Reinvestor / Debt Repayer
+ITC,2024-03,+,+,-,Asset Seller / Debt Repayer
+ITC,2024-09,-,-,-,UNKNOWN
+JINDALSTEL,2013-03,+,-,+,Reinvestor / Raising Capital
+JINDALSTEL,2014-03,+,-,+,Reinvestor / Raising Capital
+JINDALSTEL,2015-03,+,-,+,Reinvestor / Raising Capital
+JINDALSTEL,2016-03,+,-,-,Reinvestor / Debt Repayer
+JINDALSTEL,2017-03,+,-,-,Reinvestor / Debt Repayer
+JINDALSTEL,2018-03,+,-,-,Reinvestor / Debt Repayer
+JINDALSTEL,2019-03,+,-,-,Reinvestor / Debt Repayer
+JINDALSTEL,2020-03,+,-,-,Reinvestor / Debt Repayer
+JINDALSTEL,2021-03,+,-,-,Reinvestor / Debt Repayer
+JINDALSTEL,2022-03,+,-,-,Reinvestor / Debt Repayer
+JINDALSTEL,2023-03,+,-,-,Reinvestor / Debt Repayer
+JINDALSTEL,2024-03,+,-,+,Reinvestor / Raising Capital
+JINDALSTEL,2024-09,-,-,-,UNKNOWN
+JIOFIN,2023-03,+,-,-,Reinvestor / Debt Repayer
+JIOFIN,2024-03,-,+,-,Distress Asset Seller
+JIOFIN,2024-09,-,-,-,UNKNOWN
+JSWENERGY,2013-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2014-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2015-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2016-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2017-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2018-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2019-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2020-03,+,+,-,Asset Seller / Debt Repayer
+JSWENERGY,2021-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2022-03,+,-,-,Reinvestor / Debt Repayer
+JSWENERGY,2023-03,+,-,+,Reinvestor / Raising Capital
+JSWENERGY,2024-03,+,-,+,Reinvestor / Raising Capital
+JSWENERGY,2024-09,-,-,-,UNKNOWN
+JSWSTEEL,2013-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2014-03,+,-,+,Reinvestor / Raising Capital
+JSWSTEEL,2015-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2016-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2017-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2018-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2019-03,+,-,+,Reinvestor / Raising Capital
+JSWSTEEL,2020-03,+,-,+,Reinvestor / Raising Capital
+JSWSTEEL,2021-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2022-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2023-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2024-03,+,-,-,Reinvestor / Debt Repayer
+JSWSTEEL,2024-09,-,-,-,UNKNOWN
+KOTAKBANK,2013-03,+,-,+,Reinvestor / Raising Capital
+KOTAKBANK,2014-03,+,-,-,Reinvestor / Debt Repayer
+KOTAKBANK,2015-03,+,-,+,Reinvestor / Raising Capital
+KOTAKBANK,2016-03,+,-,+,Reinvestor / Raising Capital
+KOTAKBANK,2017-03,+,-,+,Reinvestor / Raising Capital
+KOTAKBANK,2018-03,-,-,+,Distress Raising Capital
+KOTAKBANK,2019-03,+,-,+,Reinvestor / Raising Capital
+KOTAKBANK,2020-03,+,-,-,Reinvestor / Debt Repayer
+KOTAKBANK,2021-03,+,-,-,Reinvestor / Debt Repayer
+KOTAKBANK,2022-03,+,-,+,Reinvestor / Raising Capital
+KOTAKBANK,2023-03,-,-,+,Distress Raising Capital
+KOTAKBANK,2024-03,+,-,+,Reinvestor / Raising Capital
+LICI,2019-03,+,+,-,Asset Seller / Debt Repayer
+LICI,2020-03,+,-,-,Reinvestor / Debt Repayer
+LICI,2021-03,+,+,-,Asset Seller / Debt Repayer
+LICI,2022-03,-,+,+,Distress Raising Cap/Selling Assets
+LICI,2023-03,+,-,-,Reinvestor / Debt Repayer
+LICI,2024-03,+,-,-,Reinvestor / Debt Repayer
+LICI,2024-09,-,-,-,UNKNOWN
+LODHA,2011-03,-,-,-,UNKNOWN
+LODHA,2012-03,-,-,-,UNKNOWN
+LODHA,2015-03,-,-,-,UNKNOWN
+LODHA,2016-03,+,-,+,Reinvestor / Raising Capital
+LODHA,2017-03,+,-,-,Reinvestor / Debt Repayer
+LODHA,2018-03,+,-,+,Reinvestor / Raising Capital
+LODHA,2019-03,-,-,+,Distress Raising Capital
+LODHA,2020-03,+,+,-,Asset Seller / Debt Repayer
+LODHA,2021-03,+,+,-,Asset Seller / Debt Repayer
+LODHA,2022-03,+,+,-,Asset Seller / Debt Repayer
+LODHA,2023-03,+,+,-,Asset Seller / Debt Repayer
+LODHA,2024-03,+,-,+,Reinvestor / Raising Capital
+LODHA,2024-09,-,-,-,UNKNOWN
+LT,2013-03,-,-,+,Distress Raising Capital
+LT,2014-03,-,-,+,Distress Raising Capital
+LT,2015-03,-,-,+,Distress Raising Capital
+LT,2016-03,-,-,+,Distress Raising Capital
+LT,2017-03,+,-,+,Reinvestor / Raising Capital
+LT,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+LT,2019-03,-,-,+,Distress Raising Capital
+LT,2020-03,+,-,+,Reinvestor / Raising Capital
+LT,2021-03,+,-,-,Reinvestor / Debt Repayer
+LT,2022-03,+,-,-,Reinvestor / Debt Repayer
+LT,2023-03,+,-,-,Reinvestor / Debt Repayer
+LT,2024-03,+,+,-,Asset Seller / Debt Repayer
+LT,2024-09,-,-,-,UNKNOWN
+LTIM,2013-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2014-03,+,+,-,Asset Seller / Debt Repayer
+LTIM,2015-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2016-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2017-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2018-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2019-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2020-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2021-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2022-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2023-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2024-03,+,-,-,Reinvestor / Debt Repayer
+LTIM,2024-09,-,-,-,UNKNOWN
+M&M,2013-03,-,-,+,Distress Raising Capital
+M&M,2014-03,-,-,+,Distress Raising Capital
+M&M,2015-03,+,-,+,Reinvestor / Raising Capital
+M&M,2016-03,+,-,+,Reinvestor / Raising Capital
+M&M,2017-03,+,-,+,Reinvestor / Raising Capital
+M&M,2018-03,+,-,+,Reinvestor / Raising Capital
+M&M,2019-03,-,-,+,Distress Raising Capital
+M&M,2020-03,-,-,+,Distress Raising Capital
+M&M,2021-03,+,-,+,Reinvestor / Raising Capital
+M&M,2022-03,+,-,-,Reinvestor / Debt Repayer
+M&M,2023-03,-,-,+,Distress Raising Capital
+M&M,2024-03,-,-,+,Distress Raising Capital
+M&M,2024-09,-,-,-,UNKNOWN
+MARUTI,2013-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2014-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2015-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2016-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2017-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2018-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2019-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2020-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2021-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2022-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2023-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2024-03,+,-,-,Reinvestor / Debt Repayer
+MARUTI,2024-09,-,-,-,UNKNOWN
+MOTHERSON,2013-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2014-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2015-03,+,-,+,Reinvestor / Raising Capital
+MOTHERSON,2016-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2017-03,+,-,+,Reinvestor / Raising Capital
+MOTHERSON,2018-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2019-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2020-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2021-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2022-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2023-03,+,-,-,Reinvestor / Debt Repayer
+MOTHERSON,2024-03,+,-,+,Reinvestor / Raising Capital
+MOTHERSON,2024-09,-,-,-,UNKNOWN
+NAUKRI,2013-03,+,-,-,Reinvestor / Debt Repayer
+NAUKRI,2014-03,+,-,+,Reinvestor / Raising Capital
+NAUKRI,2015-03,+,-,+,Reinvestor / Raising Capital
+NAUKRI,2016-03,+,-,-,Reinvestor / Debt Repayer
+NAUKRI,2017-03,+,-,-,Reinvestor / Debt Repayer
+NAUKRI,2018-03,+,-,-,Reinvestor / Debt Repayer
+NAUKRI,2019-03,+,-,-,Reinvestor / Debt Repayer
+NAUKRI,2020-03,+,+,-,Asset Seller / Debt Repayer
+NAUKRI,2021-03,+,-,+,Reinvestor / Raising Capital
+NAUKRI,2022-03,+,-,+,Reinvestor / Raising Capital
+NAUKRI,2023-03,+,-,+,Reinvestor / Raising Capital
+NAUKRI,2024-03,+,-,+,Reinvestor / Raising Capital
+NAUKRI,2024-09,-,-,-,UNKNOWN
+NESTLEIND,2013-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2014-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2015-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2016-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2017-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2018-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2019-12,+,+,-,Asset Seller / Debt Repayer
+NESTLEIND,2020-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2021-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2022-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2023-12,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2024-03,+,-,-,Reinvestor / Debt Repayer
+NESTLEIND,2024-09,-,-,-,UNKNOWN
+NHPC,2013-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2014-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2015-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2016-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2017-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2018-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2019-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2020-03,+,-,+,Reinvestor / Raising Capital
+NHPC,2021-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2022-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2023-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2024-03,+,-,-,Reinvestor / Debt Repayer
+NHPC,2024-09,-,-,-,UNKNOWN
+NTPC,2013-03,+,-,+,Reinvestor / Raising Capital
+NTPC,2014-03,+,-,-,Reinvestor / Debt Repayer
+NTPC,2015-03,+,-,-,Reinvestor / Debt Repayer
+NTPC,2016-03,+,-,-,Reinvestor / Debt Repayer
+NTPC,2017-03,+,-,+,Reinvestor / Raising Capital
+NTPC,2018-03,+,-,+,Reinvestor / Raising Capital
+NTPC,2019-03,+,-,+,Reinvestor / Raising Capital
+NTPC,2020-03,+,-,+,Reinvestor / Raising Capital
+NTPC,2021-03,+,-,-,Reinvestor / Debt Repayer
+NTPC,2022-03,+,-,-,Reinvestor / Debt Repayer
+NTPC,2023-03,+,-,-,Reinvestor / Debt Repayer
+NTPC,2024-03,+,-,-,Reinvestor / Debt Repayer
+NTPC,2024-09,-,-,-,UNKNOWN
+ONGC,2013-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2014-03,+,-,+,Reinvestor / Raising Capital
+ONGC,2015-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2016-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2017-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2018-03,+,-,+,Reinvestor / Raising Capital
+ONGC,2019-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2020-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2021-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2022-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2023-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2024-03,+,-,-,Reinvestor / Debt Repayer
+ONGC,2024-09,-,-,-,UNKNOWN
+PFC,2013-03,-,+,+,Distress Raising Cap/Selling Assets
+PFC,2014-03,-,+,+,Distress Raising Cap/Selling Assets
+PFC,2015-03,-,-,+,Distress Raising Capital
+PFC,2016-03,-,-,+,Distress Raising Capital
+PFC,2017-03,+,-,+,Reinvestor / Raising Capital
+PFC,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+PFC,2019-03,-,-,+,Distress Raising Capital
+PFC,2020-03,-,-,+,Distress Raising Capital
+PFC,2021-03,-,+,+,Distress Raising Cap/Selling Assets
+PFC,2022-03,+,-,-,Reinvestor / Debt Repayer
+PFC,2023-03,-,-,+,Distress Raising Capital
+PFC,2024-03,-,-,+,Distress Raising Capital
+PFC,2024-09,-,-,-,UNKNOWN
+PIDILITIND,2013-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2014-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2015-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2016-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2017-03,+,-,+,Reinvestor / Raising Capital
+PIDILITIND,2018-03,+,+,-,Asset Seller / Debt Repayer
+PIDILITIND,2019-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2020-03,+,+,-,Asset Seller / Debt Repayer
+PIDILITIND,2021-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2022-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2023-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2024-03,+,-,-,Reinvestor / Debt Repayer
+PIDILITIND,2024-09,-,-,-,UNKNOWN
+PNB,2013-03,-,-,-,Distress Burning Cash
+PNB,2014-03,+,-,+,Reinvestor / Raising Capital
+PNB,2015-03,+,-,+,Reinvestor / Raising Capital
+PNB,2016-03,+,-,+,Reinvestor / Raising Capital
+PNB,2017-03,+,+,-,Asset Seller / Debt Repayer
+PNB,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+PNB,2019-03,-,-,+,Distress Raising Capital
+PNB,2020-03,-,-,+,Distress Raising Capital
+PNB,2021-03,+,-,+,Reinvestor / Raising Capital
+PNB,2022-03,+,-,+,Reinvestor / Raising Capital
+PNB,2023-03,+,-,+,Reinvestor / Raising Capital
+PNB,2024-03,-,-,+,Distress Raising Capital
+POWERGRID,2013-03,+,-,+,Reinvestor / Raising Capital
+POWERGRID,2014-03,+,-,+,Reinvestor / Raising Capital
+POWERGRID,2015-03,+,-,+,Reinvestor / Raising Capital
+POWERGRID,2016-03,+,-,+,Reinvestor / Raising Capital
+POWERGRID,2017-03,+,-,+,Reinvestor / Raising Capital
+POWERGRID,2018-03,+,-,+,Reinvestor / Raising Capital
+POWERGRID,2019-03,+,-,-,Reinvestor / Debt Repayer
+POWERGRID,2020-03,+,-,-,Reinvestor / Debt Repayer
+POWERGRID,2021-03,+,-,-,Reinvestor / Debt Repayer
+POWERGRID,2022-03,+,+,-,Asset Seller / Debt Repayer
+POWERGRID,2023-03,+,-,-,Reinvestor / Debt Repayer
+POWERGRID,2024-03,+,-,-,Reinvestor / Debt Repayer
+POWERGRID,2024-09,-,-,-,UNKNOWN
+RECLTD,2013-03,-,+,+,Distress Raising Cap/Selling Assets
+RECLTD,2014-03,-,+,+,Distress Raising Cap/Selling Assets
+RECLTD,2015-03,-,+,+,Distress Raising Cap/Selling Assets
+RECLTD,2016-03,-,-,+,Distress Raising Capital
+RECLTD,2017-03,+,-,-,Reinvestor / Debt Repayer
+RECLTD,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+RECLTD,2019-03,-,+,+,Distress Raising Cap/Selling Assets
+RECLTD,2020-03,-,+,+,Distress Raising Cap/Selling Assets
+RECLTD,2021-03,-,+,+,Distress Raising Cap/Selling Assets
+RECLTD,2022-03,-,-,+,Distress Raising Capital
+RECLTD,2023-03,-,-,+,Distress Raising Capital
+RECLTD,2024-03,-,-,+,Distress Raising Capital
+RECLTD,2024-09,-,-,-,UNKNOWN
+RELIANCE,2013-03,+,-,+,Reinvestor / Raising Capital
+RELIANCE,2014-03,+,-,+,Reinvestor / Raising Capital
+RELIANCE,2015-03,+,-,+,Reinvestor / Raising Capital
+RELIANCE,2016-03,+,-,-,Reinvestor / Debt Repayer
+RELIANCE,2017-03,+,-,+,Reinvestor / Raising Capital
+RELIANCE,2018-03,+,-,-,Reinvestor / Debt Repayer
+RELIANCE,2019-03,+,-,+,Reinvestor / Raising Capital
+RELIANCE,2020-03,+,-,-,Reinvestor / Debt Repayer
+RELIANCE,2021-03,+,-,+,Reinvestor / Raising Capital
+RELIANCE,2022-03,+,-,+,Reinvestor / Raising Capital
+RELIANCE,2023-03,+,-,+,Reinvestor / Raising Capital
+RELIANCE,2024-03,+,-,-,Reinvestor / Debt Repayer
+RELIANCE,2024-09,-,-,-,UNKNOWN
+SBILIFE,2013-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2014-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2015-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2016-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2017-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2018-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2019-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2020-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2021-03,+,-,+,Reinvestor / Raising Capital
+SBILIFE,2022-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2023-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2024-03,+,-,-,Reinvestor / Debt Repayer
+SBILIFE,2024-09,-,-,-,UNKNOWN
+SBIN,2013-03,+,-,-,Reinvestor / Debt Repayer
+SBIN,2014-03,+,-,+,Reinvestor / Raising Capital
+SBIN,2015-03,+,-,-,Reinvestor / Debt Repayer
+SBIN,2016-03,+,-,+,Reinvestor / Raising Capital
+SBIN,2017-03,+,-,-,Reinvestor / Debt Repayer
+SBIN,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+SBIN,2019-03,+,+,+,Asset Seller / Raising Capital
+SBIN,2020-03,+,-,+,Reinvestor / Raising Capital
+SBIN,2021-03,+,-,+,Reinvestor / Raising Capital
+SBIN,2022-03,+,-,-,Reinvestor / Debt Repayer
+SBIN,2023-03,-,-,+,Distress Raising Capital
+SBIN,2024-03,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2013-06,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2014-06,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2015-06,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2016-03,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2017-03,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2018-03,+,-,+,Reinvestor / Raising Capital
+SHREECEM,2019-03,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2020-03,+,-,+,Reinvestor / Raising Capital
+SHREECEM,2021-03,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2022-03,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2023-03,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2024-03,+,-,-,Reinvestor / Debt Repayer
+SHREECEM,2024-09,-,-,-,UNKNOWN
+SHRIRAMFIN,2013-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2014-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2015-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2016-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2017-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2018-03,-,+,+,Distress Raising Cap/Selling Assets
+SHRIRAMFIN,2019-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2020-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2021-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2022-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2023-03,-,+,+,Distress Raising Cap/Selling Assets
+SHRIRAMFIN,2024-03,-,-,+,Distress Raising Capital
+SHRIRAMFIN,2024-09,-,-,-,UNKNOWN
+SIEMENS,2011-09,+,+,-,Asset Seller / Debt Repayer
+SIEMENS,2014-09,+,+,-,Asset Seller / Debt Repayer
+SIEMENS,2015-09,+,+,-,Asset Seller / Debt Repayer
+SIEMENS,2016-09,+,+,-,Asset Seller / Debt Repayer
+SIEMENS,2017-09,+,+,-,Asset Seller / Debt Repayer
+SIEMENS,2018-09,+,-,-,Reinvestor / Debt Repayer
+SIEMENS,2019-09,+,-,-,Reinvestor / Debt Repayer
+SIEMENS,2020-09,+,+,-,Asset Seller / Debt Repayer
+SIEMENS,2021-09,+,-,-,Reinvestor / Debt Repayer
+SIEMENS,2022-09,+,-,-,Reinvestor / Debt Repayer
+SIEMENS,2023-09,+,-,-,Reinvestor / Debt Repayer
+SIEMENS,2024-09,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2013-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2014-03,+,-,+,Reinvestor / Raising Capital
+SUNPHARMA,2015-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2016-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2017-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2018-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2019-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2020-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2021-03,+,+,-,Asset Seller / Debt Repayer
+SUNPHARMA,2022-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2023-03,+,-,+,Reinvestor / Raising Capital
+SUNPHARMA,2024-03,+,-,-,Reinvestor / Debt Repayer
+SUNPHARMA,2024-09,-,-,-,UNKNOWN
+TATACONSUM,2013-03,+,+,+,Asset Seller / Raising Capital
+TATACONSUM,2014-03,+,-,-,Reinvestor / Debt Repayer
+TATACONSUM,2015-03,+,-,-,Reinvestor / Debt Repayer
+TATACONSUM,2016-03,+,+,-,Asset Seller / Debt Repayer
+TATACONSUM,2017-03,+,+,-,Asset Seller / Debt Repayer
+TATACONSUM,2018-03,+,-,-,Reinvestor / Debt Repayer
+TATACONSUM,2019-03,+,+,-,Asset Seller / Debt Repayer
+TATACONSUM,2020-03,+,-,-,Reinvestor / Debt Repayer
+TATACONSUM,2021-03,+,-,-,Reinvestor / Debt Repayer
+TATACONSUM,2022-03,+,-,-,Reinvestor / Debt Repayer
+TATACONSUM,2023-03,+,-,-,Reinvestor / Debt Repayer
+TATACONSUM,2024-03,+,-,+,Reinvestor / Raising Capital
+TATACONSUM,2024-09,-,-,-,UNKNOWN
+TATAMOTORS,2013-03,+,-,-,Reinvestor / Debt Repayer
+TATAMOTORS,2014-03,+,-,-,Reinvestor / Debt Repayer
+TATAMOTORS,2015-03,+,-,+,Reinvestor / Raising Capital
+TATAMOTORS,2016-03,+,-,-,Reinvestor / Debt Repayer
+TATAMOTORS,2017-03,+,-,+,Reinvestor / Raising Capital
+TATAMOTORS,2018-03,+,-,+,Reinvestor / Raising Capital
+TATAMOTORS,2019-03,+,-,+,Reinvestor / Raising Capital
+TATAMOTORS,2020-03,+,-,+,Reinvestor / Raising Capital
+TATAMOTORS,2021-03,+,-,+,Reinvestor / Raising Capital
+TATAMOTORS,2022-03,+,-,-,Reinvestor / Debt Repayer
+TATAMOTORS,2023-03,+,-,-,Reinvestor / Debt Repayer
+TATAMOTORS,2024-03,+,-,-,Reinvestor / Debt Repayer
+TATAMOTORS,2024-09,-,-,-,UNKNOWN
+TATAPOWER,2013-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2014-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2015-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2016-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2017-03,+,-,+,Reinvestor / Raising Capital
+TATAPOWER,2018-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2019-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2020-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2021-03,+,+,-,Asset Seller / Debt Repayer
+TATAPOWER,2022-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2023-03,+,-,+,Reinvestor / Raising Capital
+TATAPOWER,2024-03,+,-,-,Reinvestor / Debt Repayer
+TATAPOWER,2024-09,-,-,-,UNKNOWN
+TATASTEEL,2013-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2014-03,+,-,+,Reinvestor / Raising Capital
+TATASTEEL,2015-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2016-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2017-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2018-03,+,-,+,Reinvestor / Raising Capital
+TATASTEEL,2019-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2020-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2021-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2022-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2023-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2024-03,+,-,-,Reinvestor / Debt Repayer
+TATASTEEL,2024-09,-,-,-,UNKNOWN
+TCS,2013-03,+,-,-,Reinvestor / Debt Repayer
+TCS,2014-03,+,-,-,Reinvestor / Debt Repayer
+TCS,2015-03,+,-,-,Reinvestor / Debt Repayer
+TCS,2016-03,+,-,-,Reinvestor / Debt Repayer
+TCS,2017-03,+,-,-,Reinvestor / Debt Repayer
+TCS,2018-03,+,+,-,Asset Seller / Debt Repayer
+TCS,2019-03,+,+,-,Asset Seller / Debt Repayer
+TCS,2020-03,+,+,-,Asset Seller / Debt Repayer
+TCS,2021-03,+,-,-,Reinvestor / Debt Repayer
+TCS,2022-03,+,-,-,Reinvestor / Debt Repayer
+TCS,2023-03,+,+,-,Asset Seller / Debt Repayer
+TCS,2024-03,+,+,-,Asset Seller / Debt Repayer
+TCS,2024-09,-,-,-,UNKNOWN
+TECHM,2013-03,+,-,+,Reinvestor / Raising Capital
+TECHM,2014-03,+,+,-,Asset Seller / Debt Repayer
+TECHM,2015-03,+,-,-,Reinvestor / Debt Repayer
+TECHM,2016-03,+,-,-,Reinvestor / Debt Repayer
+TECHM,2017-03,+,-,-,Reinvestor / Debt Repayer
+TECHM,2018-03,+,-,-,Reinvestor / Debt Repayer
+TECHM,2019-03,+,-,-,Reinvestor / Debt Repayer
+TECHM,2020-03,+,+,-,Asset Seller / Debt Repayer
+TECHM,2021-03,+,-,-,Reinvestor / Debt Repayer
+TECHM,2022-03,+,+,-,Asset Seller / Debt Repayer
+TECHM,2023-03,+,-,-,Reinvestor / Debt Repayer
+TECHM,2024-03,+,-,-,Reinvestor / Debt Repayer
+TECHM,2024-09,-,-,-,UNKNOWN
+TITAN,2013-03,+,-,-,Reinvestor / Debt Repayer
+TITAN,2014-03,-,-,+,Distress Raising Capital
+TITAN,2015-03,+,-,-,Reinvestor / Debt Repayer
+TITAN,2016-03,+,-,-,Reinvestor / Debt Repayer
+TITAN,2017-03,+,-,-,Reinvestor / Debt Repayer
+TITAN,2018-03,-,+,-,Distress Asset Seller
+TITAN,2019-03,+,-,-,Reinvestor / Debt Repayer
+TITAN,2020-03,-,+,-,Distress Asset Seller
+TITAN,2021-03,+,-,-,Reinvestor / Debt Repayer
+TITAN,2022-03,-,+,-,Distress Asset Seller
+TITAN,2023-03,+,-,+,Reinvestor / Raising Capital
+TITAN,2024-03,+,-,-,Reinvestor / Debt Repayer
+TITAN,2024-09,-,-,-,UNKNOWN
+TORNTPHARM,2013-03,+,-,+,Reinvestor / Raising Capital
+TORNTPHARM,2014-03,+,-,+,Reinvestor / Raising Capital
+TORNTPHARM,2015-03,+,-,+,Reinvestor / Raising Capital
+TORNTPHARM,2016-03,+,-,-,Reinvestor / Debt Repayer
+TORNTPHARM,2017-03,+,-,-,Reinvestor / Debt Repayer
+TORNTPHARM,2018-03,+,-,+,Reinvestor / Raising Capital
+TORNTPHARM,2019-03,+,-,-,Reinvestor / Debt Repayer
+TORNTPHARM,2020-03,+,+,-,Asset Seller / Debt Repayer
+TORNTPHARM,2021-03,+,-,-,Reinvestor / Debt Repayer
+TORNTPHARM,2022-03,+,-,-,Reinvestor / Debt Repayer
+TORNTPHARM,2023-03,+,-,+,Reinvestor / Raising Capital
+TORNTPHARM,2024-03,+,-,-,Reinvestor / Debt Repayer
+TORNTPHARM,2024-09,-,-,-,UNKNOWN
+TRENT,2013-03,+,-,+,Reinvestor / Raising Capital
+TRENT,2014-03,-,-,-,Distress Burning Cash
+TRENT,2015-03,-,-,+,Distress Raising Capital
+TRENT,2016-03,+,-,-,Reinvestor / Debt Repayer
+TRENT,2017-03,+,-,-,Reinvestor / Debt Repayer
+TRENT,2018-03,+,-,-,Reinvestor / Debt Repayer
+TRENT,2019-03,+,-,+,Reinvestor / Raising Capital
+TRENT,2020-03,+,-,+,Reinvestor / Raising Capital
+TRENT,2021-03,+,+,-,Asset Seller / Debt Repayer
+TRENT,2022-03,+,+,-,Asset Seller / Debt Repayer
+TRENT,2023-03,+,-,-,Reinvestor / Debt Repayer
+TRENT,2024-03,+,-,-,Reinvestor / Debt Repayer
+TRENT,2024-09,-,-,-,UNKNOWN
+TVSMOTOR,2013-03,+,-,-,Reinvestor / Debt Repayer
+TVSMOTOR,2014-03,+,-,-,Reinvestor / Debt Repayer
+TVSMOTOR,2015-03,+,-,+,Reinvestor / Raising Capital
+TVSMOTOR,2016-03,+,-,-,Reinvestor / Debt Repayer
+TVSMOTOR,2017-03,+,-,-,Reinvestor / Debt Repayer
+TVSMOTOR,2018-03,+,-,+,Reinvestor / Raising Capital
+TVSMOTOR,2019-03,-,-,+,Distress Raising Capital
+TVSMOTOR,2020-03,+,-,+,Reinvestor / Raising Capital
+TVSMOTOR,2021-03,+,-,+,Reinvestor / Raising Capital
+TVSMOTOR,2022-03,-,-,+,Distress Raising Capital
+TVSMOTOR,2023-03,-,-,+,Distress Raising Capital
+TVSMOTOR,2024-03,-,-,+,Distress Raising Capital
+TVSMOTOR,2024-09,-,-,-,UNKNOWN

@@ -1,0 +1,93 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+ABB,0,Defensive Dividend Payers,0.3922
+ADANIENSOL,0,Defensive Dividend Payers,1.3963
+ADANIENT,0,Defensive Dividend Payers,1.1214
+ADANIGREEN,4,Distressed or Turnaround,2.6504
+ADANIPORTS,1,Emerging Growth,1.1728
+ADANIPOWER,0,Defensive Dividend Payers,1.4578
+AMBUJACEM,0,Defensive Dividend Payers,0.6609
+APOLLOHOSP,0,Defensive Dividend Payers,0.8927
+ASIANPAINT,0,Defensive Dividend Payers,0.2859
+ATGL,0,Defensive Dividend Payers,1.4073
+AXISBANK,4,Distressed or Turnaround,0.8534
+BAJAJ-AUTO,0,Defensive Dividend Payers,0.5144
+BAJAJFINSV,4,Distressed or Turnaround,0.9743
+BAJAJHLDNG,1,Emerging Growth,2.4766
+BAJFINANCE,4,Distressed or Turnaround,1.5356
+BANKBARODA,4,Distressed or Turnaround,1.7612
+BEL,2,High-Quality Compounders,1.1352
+BHARTIARTL,1,Emerging Growth,1.2472
+BHEL,0,Defensive Dividend Payers,2.3156
+BOSCHLTD,0,Defensive Dividend Payers,1.0406
+BPCL,0,Defensive Dividend Payers,0.7204
+BRITANNIA,0,Defensive Dividend Payers,0.4152
+CANBK,4,Distressed or Turnaround,2.6754
+CHOLAFIN,4,Distressed or Turnaround,0.7858
+CIPLA,1,Emerging Growth,1.0296
+COALINDIA,1,Emerging Growth,1.2292
+DABUR,0,Defensive Dividend Payers,0.5767
+DIVISLAB,0,Defensive Dividend Payers,0.5386
+DLF,0,Defensive Dividend Payers,2.6529
+DMART,0,Defensive Dividend Payers,1.318
+DRREDDY,0,Defensive Dividend Payers,1.1445
+EICHERMOT,0,Defensive Dividend Payers,1.1067
+GAIL,3,Value Cyclicals,1.1198
+GODREJCP,0,Defensive Dividend Payers,0.7274
+GRASIM,0,Defensive Dividend Payers,0.34
+HAL,2,High-Quality Compounders,1.1352
+HAVELLS,0,Defensive Dividend Payers,0.4377
+HCLTECH,0,Defensive Dividend Payers,2.2628
+HDFCBANK,4,Distressed or Turnaround,0.6633
+HDFCLIFE,1,Emerging Growth,1.3229
+HEROMOTOCO,1,Emerging Growth,1.6666
+HINDALCO,1,Emerging Growth,0.639
+HINDUNILVR,1,Emerging Growth,0.7434
+ICICIBANK,4,Distressed or Turnaround,0.7721
+ICICIGI,1,Emerging Growth,1.8442
+ICICIPRULI,1,Emerging Growth,1.0233
+INDIGO,1,Emerging Growth,1.8241
+INDUSINDBK,4,Distressed or Turnaround,0.6376
+INFY,0,Defensive Dividend Payers,0.3384
+IOC,0,Defensive Dividend Payers,0.7618
+IRCTC,0,Defensive Dividend Payers,1.0748
+IRFC,4,Distressed or Turnaround,1.9749
+ITC,0,Defensive Dividend Payers,0.9422
+JINDALSTEL,0,Defensive Dividend Payers,1.4
+JIOFIN,1,Emerging Growth,0.7833
+JSWENERGY,0,Defensive Dividend Payers,1.5032
+JSWSTEEL,0,Defensive Dividend Payers,0.5987
+KOTAKBANK,1,Emerging Growth,1.4561
+LICI,0,Defensive Dividend Payers,1.7562
+LODHA,0,Defensive Dividend Payers,2.3359
+LT,0,Defensive Dividend Payers,0.3333
+LTIM,0,Defensive Dividend Payers,2.593
+M&M,0,Defensive Dividend Payers,0.884
+MARUTI,0,Defensive Dividend Payers,0.3922
+MOTHERSON,0,Defensive Dividend Payers,1.1295
+NAUKRI,0,Defensive Dividend Payers,0.8587
+NESTLEIND,0,Defensive Dividend Payers,0.5069
+NHPC,3,Value Cyclicals,1.1198
+NTPC,0,Defensive Dividend Payers,0.6723
+ONGC,0,Defensive Dividend Payers,0.7891
+PFC,4,Distressed or Turnaround,1.2811
+PIDILITIND,0,Defensive Dividend Payers,0.4618
+PNB,4,Distressed or Turnaround,1.3806
+POWERGRID,1,Emerging Growth,1.1854
+RECLTD,1,Emerging Growth,2.0829
+RELIANCE,0,Defensive Dividend Payers,0.4315
+SBILIFE,0,Defensive Dividend Payers,1.97
+SBIN,0,Defensive Dividend Payers,1.8236
+SHREECEM,0,Defensive Dividend Payers,0.2854
+SHRIRAMFIN,4,Distressed or Turnaround,1.3382
+SIEMENS,0,Defensive Dividend Payers,0.4625
+SUNPHARMA,0,Defensive Dividend Payers,0.6515
+TATACONSUM,0,Defensive Dividend Payers,1.7341
+TATAMOTORS,0,Defensive Dividend Payers,0.635
+TATAPOWER,0,Defensive Dividend Payers,0.8719
+TATASTEEL,0,Defensive Dividend Payers,0.6608
+TCS,0,Defensive Dividend Payers,0.3721
+TECHM,0,Defensive Dividend Payers,0.6432
+TITAN,0,Defensive Dividend Payers,1.3822
+TORNTPHARM,0,Defensive Dividend Payers,0.8343
+TRENT,0,Defensive Dividend Payers,3.4047
+TVSMOTOR,0,Defensive Dividend Payers,1.2147

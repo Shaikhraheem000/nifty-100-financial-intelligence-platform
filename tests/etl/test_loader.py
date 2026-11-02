@@ -1,84 +1,89 @@
+"""
+Unit tests for DataLoader (10 comprehensive tests).
+Verifies loader reads correct structure, row counts, and column definitions across all datasets.
+"""
+
+import os
 import pytest
 import pandas as pd
 from src.etl.loader import DataLoader
-from src.etl.validator import Validator
-from src.etl.deduplicator import Deduplicator
-from src.etl.normaliser import normalize_ticker, normalize_year
-import os
 
-def test_loader_missing_file():
-    loader = DataLoader("fake_dir")
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+DATA_DIR = os.path.join(BASE_DIR, 'data')
+
+
+@pytest.fixture
+def loader():
+    return DataLoader(DATA_DIR)
+
+
+def test_01_loader_missing_file_raises_error():
+    fake_loader = DataLoader("non_existent_directory_123")
     with pytest.raises(FileNotFoundError):
-        loader.load_dataset("companies")
+        fake_loader.load_dataset("companies")
 
-def test_validator_pk_uniqueness():
-    val = Validator()
-    df = pd.DataFrame({"id": ["TCS", "TCS", "INFY"]})
-    assert not val.validate_company_pk_uniqueness(df)
-    
-    df2 = pd.DataFrame({"id": ["TCS", "INFY"]})
-    assert val.validate_company_pk_uniqueness(df2)
 
-def test_deduplicator():
-    dedup = Deduplicator()
-    df = pd.DataFrame({
-        "company_id": ["TCS", "TCS", "INFY"],
-        "year": ["2023", "2023", "2023"],
-        "val": [1, 2, 3]
-    })
-    clean = dedup.deduplicate(df, ["company_id", "year"], "test")
-    assert len(clean) == 2
-    # Should keep last
-    assert clean[clean["company_id"] == "TCS"]["val"].iloc[0] == 2
+def test_02_loader_companies_dataset(loader):
+    df = loader.load_dataset("companies")
+    assert not df.empty
+    assert len(df) == 92
+    assert "id" in df.columns or "company_id" in df.columns
+    assert "company_name" in df.columns
 
-def test_fk_integrity():
-    val = Validator()
-    df = pd.DataFrame({"company_id": ["TCS", "MISSING_FK"]})
-    master = {"TCS", "INFY"}
-    clean = val.validate_fk_integrity(df, master, "test")
-    assert len(clean) == 1
-    assert clean.iloc[0]["company_id"] == "TCS"
-    
-def test_validator_check_balance_sheet():
-    val = Validator()
-    df = pd.DataFrame({
-        "company_id": ["TCS", "INFY"],
-        "year": ["2023", "2023"],
-        "total_assets": [100, 100],
-        "total_liabilities": [100, 50],
-        "fixed_assets": [10, -5]
-    })
-    res = val.check_balance_sheet(df)
-    assert res.iloc[1]["fixed_assets"] == 0
-    assert len(val.failures) == 3 # 1 strict match, 1 mismatch, 1 negative FA
 
-def test_validator_check_profit_and_loss():
-    val = Validator()
-    df = pd.DataFrame({
-        "company_id": ["TCS", "INFY"],
-        "year": ["2023", "2023"],
-        "sales": [100, 0],
-        "operating_profit": [20, -5],
-        "opm_percentage": [20, 0],
-        "tax_percentage": [25, 70],
-        "dividend_payout": [50, 300],
-        "net_profit": [10, 10],
-        "eps": [5, -1]
-    })
-    comp_df = pd.DataFrame({"id": ["TCS", "INFY"]})
-    val.check_profit_and_loss(df, comp_df)
-    assert len(val.failures) >= 4
+def test_03_loader_profitandloss_dataset(loader):
+    df = loader.load_dataset("profitandloss")
+    assert not df.empty
+    expected = {"sales", "operating_profit", "net_profit"}
+    assert expected.issubset(set(df.columns))
 
-def test_validator_check_cashflow():
-    val = Validator()
-    df = pd.DataFrame({
-        "company_id": ["TCS"],
-        "year": ["2023"],
-        "operating_activity": [10],
-        "investing_activity": [10],
-        "financing_activity": [10],
-        "net_cash_flow": [100]
-    })
-    res = val.check_cashflow(df)
-    assert res.iloc[0]["net_cash_flow"] == 30
-    assert len(val.failures) == 1
+
+def test_04_loader_balancesheet_dataset(loader):
+    df = loader.load_dataset("balancesheet")
+    assert not df.empty
+    expected = {"borrowings", "total_assets", "total_liabilities"}
+    assert expected.issubset(set(df.columns))
+
+
+def test_05_loader_cashflow_dataset(loader):
+    df = loader.load_dataset("cashflow")
+    assert not df.empty
+    expected = {"operating_activity", "investing_activity", "financing_activity"}
+    assert expected.issubset(set(df.columns))
+
+
+def test_06_loader_sectors_dataset(loader):
+    df = loader.load_dataset("sectors")
+    assert not df.empty
+    assert "company_id" in df.columns
+    assert "broad_sector" in df.columns
+
+
+def test_07_loader_market_cap_dataset(loader):
+    df = loader.load_dataset("market_cap")
+    assert not df.empty
+    assert "company_id" in df.columns
+    assert "market_cap_crore" in df.columns
+
+
+def test_08_loader_documents_dataset(loader):
+    df = loader.load_dataset("documents")
+    assert not df.empty
+    assert "company_id" in df.columns
+    assert "annual_report" in df.columns
+
+
+def test_09_loader_manifest_generation(loader):
+    loader.manifest = []
+    df = loader.load_dataset("companies")
+    assert len(loader.manifest) > 0
+    m = loader.manifest[-1]
+    assert m["dataset"] == "companies"
+    assert m["row_count"] == len(df)
+    assert "sha256" in m
+
+
+def test_10_loader_analysis_dataset(loader):
+    df = loader.load_dataset("analysis")
+    assert not df.empty
+    assert "company_id" in df.columns

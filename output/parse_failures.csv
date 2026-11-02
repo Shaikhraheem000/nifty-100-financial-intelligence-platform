@@ -1,0 +1,18 @@
+company_id,metric_type,raw_text,reason
+SBILIFE,compounded_sales_growth,TTM:            43%,TTM period not in years
+SBILIFE,compounded_profit_growth,TTM:                 18%,TTM period not in years
+SBILIFE,stock_price_cagr,1 Year:         -2%,Negative value not matched by positive regex
+SBILIFE,roe,Last Year:      12%,Last Year format without digit year
+TCS,compounded_sales_growth,TTM:            5%,TTM period not in years
+TCS,compounded_profit_growth,TTM:                 8%,TTM period not in years
+TCS,roe,Last Year:       52%,Last Year format without digit year
+WIPRO,stock_price_cagr,3 Years:      -1%,Negative value not matched by positive regex
+WIPRO,compounded_sales_growth,TTM:           -3%,TTM period not in years
+WIPRO,compounded_profit_growth,TTM:                 1%,TTM period not in years
+WIPRO,roe,Last Year:       14%,Last Year format without digit year
+HDFCBANK,compounded_sales_growth,TTM:            47%,TTM period not in years
+HDFCBANK,compounded_profit_growth,TTM:                27%,TTM period not in years
+HDFCBANK,roe,Last Year:    17%,Last Year format without digit year
+INFY,compounded_sales_growth,TTM:            3%,TTM period not in years
+INFY,compounded_profit_growth,TTM:                 8%,TTM period not in years
+INFY,roe,Last Year:     32%,Last Year format without digit year

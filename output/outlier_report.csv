@@ -1,0 +1,8 @@
+company_id,broad_sector,metric,metric_value,sector_mean,sector_std,z_score,outlier_type
+INDIGO,Consumer Discretionary,return_on_equity_pct,892.57,86.72,232.1,3.47,Extreme Positive
+PNB,Financials,return_on_equity_pct,61.32,19.01,13.02,3.25,Extreme Positive
+INDIGO,Consumer Discretionary,return_on_capital_pct,4953.54,382.83,1316.21,3.47,Extreme Positive
+ICICIPRULI,Financials,return_on_capital_pct,753.98,79.03,209.48,3.22,Extreme Positive
+BAJAJHLDNG,Financials,net_profit_margin_pct,432.73,38.24,87.71,4.5,Extreme Positive
+ADANIGREEN,Energy,debt_to_equity,6.6,1.46,1.63,3.14,Extreme Positive
+BAJAJHLDNG,Financials,interest_coverage,3764.5,349.41,951.61,3.59,Extreme Positive

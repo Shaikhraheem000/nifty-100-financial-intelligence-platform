@@ -1,0 +1,27 @@
+presets:
+  quality:
+    roe_min: 15
+    de_max: 1
+    fcf_min: 0
+
+  value:
+    pe_max: 20
+    pb_max: 3
+
+  growth:
+    pat_cagr_5yr_min: 20
+
+  dividend:
+    dividend_yield_min: 2
+
+  momentum:
+    revenue_cagr_5yr_min: 15
+
+  debt_free:
+    borrowings_max: 0
+
+trend_filters:
+  turnaround_watch:
+    revenue_cagr_3yr_min: 10
+    fcf_positive_latest: true
+    de_declining: true

@@ -129,3 +129,31 @@ CREATE TABLE IF NOT EXISTS market_cap (
     PRIMARY KEY (company_id, year),
     FOREIGN KEY (company_id) REFERENCES companies(id)
 );
+
+CREATE TABLE IF NOT EXISTS financial_ratios (
+    company_id VARCHAR NOT NULL,
+    year VARCHAR NOT NULL,
+    net_profit_margin_pct NUMERIC,
+    operating_profit_margin_pct NUMERIC,
+    return_on_equity_pct NUMERIC,
+    return_on_capital_pct NUMERIC,
+    debt_to_equity NUMERIC,
+    interest_coverage NUMERIC,
+    asset_turnover NUMERIC,
+    free_cash_flow_cr NUMERIC,
+    cfo_quality_ratio NUMERIC,
+    capex_intensity_pct NUMERIC,
+    fcf_conversion_pct NUMERIC,
+    revenue_cagr_3yr NUMERIC,
+    revenue_cagr_5yr NUMERIC,
+    revenue_cagr_10yr NUMERIC,
+    pat_cagr_3yr NUMERIC,
+    pat_cagr_5yr NUMERIC,
+    pat_cagr_10yr NUMERIC,
+    eps_cagr_3yr NUMERIC,
+    eps_cagr_5yr NUMERIC,
+    eps_cagr_10yr NUMERIC,
+    PRIMARY KEY (company_id, year),
+    FOREIGN KEY (company_id) REFERENCES companies(id)
+);
+

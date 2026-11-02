@@ -2,7 +2,6 @@
 __pycache__/
 .pytest_cache/
 .env
-data/nifty100.db
-output/*.csv
 .coverage
 *.pyc
+*.pyo

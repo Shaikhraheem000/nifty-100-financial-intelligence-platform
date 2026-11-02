@@ -1,0 +1,426 @@
+company_id,from_year,to_year,previous_pattern,current_pattern,transition_type
+ABB,2012-12,2014-03,Reinvestor / Debt Repayer,Asset Seller / Raising Capital,Neutral / Strategic
+ABB,2014-03,2015-03,Asset Seller / Raising Capital,Distress Raising Capital,Deterioration to Distress
+ABB,2015-03,2016-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+ABB,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ABB,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ABB,2022-03,2023-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ABB,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIENSOL,2014-03,2015-03,Asset Seller / Raising Capital,Distress Raising Capital,Deterioration to Distress
+ADANIENSOL,2015-03,2016-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+ADANIENSOL,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIENSOL,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIENSOL,2022-03,2023-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIENSOL,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIENT,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIENT,2014-03,2015-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIENT,2015-03,2016-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIENT,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIENT,2018-03,2019-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+ADANIENT,2019-03,2020-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIENT,2020-03,2021-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIENT,2022-03,2023-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIENT,2023-03,2024-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIGREEN,2022-03,2023-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIGREEN,2023-03,2024-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIPORTS,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIPORTS,2015-03,2016-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIPORTS,2016-03,2017-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIPORTS,2018-03,2019-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIPORTS,2019-03,2020-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIPORTS,2020-03,2021-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ADANIPORTS,2021-03,2022-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIPOWER,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ADANIPOWER,2021-03,2022-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+AMBUJACEM,2021-12,2024-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+APOLLOHOSP,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+APOLLOHOSP,2014-03,2015-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+APOLLOHOSP,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+AXISBANK,2014-03,2015-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+AXISBANK,2015-03,2016-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+AXISBANK,2016-03,2017-03,Distress Raising Cap/Selling Assets,Reinvestor / Debt Repayer,Recovery from Distress
+AXISBANK,2017-03,2018-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+AXISBANK,2018-03,2019-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+AXISBANK,2023-03,2024-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+BAJAJ-AUTO,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BAJAJ-AUTO,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BAJAJ-AUTO,2021-03,2022-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BAJAJ-AUTO,2023-03,2024-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BAJAJFINSV,2015-03,2016-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+BAJAJFINSV,2016-03,2017-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+BAJAJFINSV,2017-03,2018-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+BAJAJFINSV,2020-03,2021-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+BAJAJFINSV,2021-03,2022-03,Reinvestor / Raising Capital,Distress Raising Cap/Selling Assets,Deterioration to Distress
+BAJAJFINSV,2022-03,2023-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+BAJAJHLDNG,2015-03,2016-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BAJAJHLDNG,2016-03,2017-03,Asset Seller / Debt Repayer,Distress Burning Cash,Deterioration to Distress
+BAJAJHLDNG,2017-03,2018-03,Distress Burning Cash,Reinvestor / Debt Repayer,Recovery from Distress
+BAJFINANCE,2017-03,2018-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+BAJFINANCE,2018-03,2019-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+BAJFINANCE,2021-03,2022-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+BAJFINANCE,2022-03,2023-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+BANKBARODA,2013-03,2014-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+BANKBARODA,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BANKBARODA,2015-03,2016-03,Reinvestor / Debt Repayer,Distress Burning Cash,Deterioration to Distress
+BANKBARODA,2016-03,2017-03,Distress Burning Cash,Reinvestor / Debt Repayer,Recovery from Distress
+BANKBARODA,2017-03,2018-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+BANKBARODA,2019-03,2020-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+BANKBARODA,2020-03,2021-03,Reinvestor / Raising Capital,Distress Burning Cash,Deterioration to Distress
+BANKBARODA,2021-03,2022-03,Distress Burning Cash,Reinvestor / Debt Repayer,Recovery from Distress
+BANKBARODA,2022-03,2023-03,Reinvestor / Debt Repayer,Distress Burning Cash,Deterioration to Distress
+BANKBARODA,2023-03,2024-03,Distress Burning Cash,Distress Raising Capital,Neutral / Strategic
+BEL,2014-03,2015-03,Distress Asset Seller,Reinvestor / Debt Repayer,Recovery from Distress
+BEL,2016-03,2017-03,Reinvestor / Debt Repayer,Distress Asset Seller,Deterioration to Distress
+BEL,2017-03,2018-03,Distress Asset Seller,Distress Burning Cash,Neutral / Strategic
+BEL,2018-03,2019-03,Distress Burning Cash,Reinvestor / Debt Repayer,Recovery from Distress
+BEL,2022-03,2023-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BEL,2023-03,2024-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BHARTIARTL,2013-03,2014-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+BHARTIARTL,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BHARTIARTL,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+BHARTIARTL,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BHEL,2014-03,2015-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BHEL,2016-03,2017-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BHEL,2017-03,2018-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BHEL,2018-03,2019-03,Asset Seller / Debt Repayer,Distress Asset Seller,Deterioration to Distress
+BHEL,2019-03,2020-03,Distress Asset Seller,Distress Raising Cap/Selling Assets,Neutral / Strategic
+BHEL,2020-03,2021-03,Distress Raising Cap/Selling Assets,Reinvestor / Debt Repayer,Recovery from Distress
+BHEL,2022-03,2023-03,Reinvestor / Debt Repayer,Distress Raising Cap/Selling Assets,Deterioration to Distress
+BOSCHLTD,2016-03,2017-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BOSCHLTD,2017-03,2018-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BOSCHLTD,2018-03,2019-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BOSCHLTD,2019-03,2020-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BOSCHLTD,2022-03,2023-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BPCL,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+BPCL,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BPCL,2018-03,2019-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+BPCL,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BRITANNIA,2013-03,2014-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BRITANNIA,2019-03,2020-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+BRITANNIA,2020-03,2021-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+BRITANNIA,2022-03,2023-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+BRITANNIA,2023-03,2024-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+CANBK,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+CANBK,2017-03,2018-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+CANBK,2018-03,2019-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+CANBK,2019-03,2020-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+CANBK,2020-03,2021-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+CANBK,2022-03,2023-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+CANBK,2023-03,2024-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+CHOLAFIN,2013-03,2014-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+CHOLAFIN,2021-03,2022-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+CHOLAFIN,2022-03,2023-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+CIPLA,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+CIPLA,2014-03,2015-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+CIPLA,2016-03,2017-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+CIPLA,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+CIPLA,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+COALINDIA,2013-03,2014-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+COALINDIA,2017-03,2018-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+COALINDIA,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+COALINDIA,2021-03,2022-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+DABUR,2018-03,2019-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+DABUR,2019-03,2020-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+DIVISLAB,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+DIVISLAB,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+DIVISLAB,2020-03,2021-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+DIVISLAB,2021-03,2022-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+DLF,2015-03,2016-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+DLF,2016-03,2017-03,Reinvestor / Debt Repayer,Distress Raising Cap/Selling Assets,Deterioration to Distress
+DLF,2017-03,2018-03,Distress Raising Cap/Selling Assets,Reinvestor / Debt Repayer,Recovery from Distress
+DLF,2018-03,2019-03,Reinvestor / Debt Repayer,Asset Seller / Raising Capital,Neutral / Strategic
+DLF,2019-03,2020-03,Asset Seller / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+DLF,2022-03,2023-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+DLF,2023-03,2024-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+DMART,2017-03,2018-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+DMART,2018-03,2019-03,Asset Seller / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+DMART,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+EICHERMOT,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+EICHERMOT,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+GAIL,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+GAIL,2019-03,2020-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+GAIL,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+GAIL,2022-03,2023-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+GAIL,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+GODREJCP,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+GODREJCP,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+GODREJCP,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+GODREJCP,2018-03,2019-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+GODREJCP,2019-03,2020-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+GODREJCP,2023-03,2024-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+GRASIM,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+GRASIM,2017-03,2018-03,Reinvestor / Debt Repayer,Distress Raising Cap/Selling Assets,Deterioration to Distress
+GRASIM,2018-03,2019-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+GRASIM,2019-03,2020-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+GRASIM,2022-03,2023-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+HAL,2016-03,2017-03,UNKNOWN,Distress Asset Seller,Deterioration to Distress
+HAL,2018-03,2019-03,Distress Asset Seller,Distress Raising Cap/Selling Assets,Neutral / Strategic
+HAL,2019-03,2020-03,Distress Raising Cap/Selling Assets,Reinvestor / Raising Capital,Recovery from Distress
+HAL,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HAVELLS,2018-03,2019-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HAVELLS,2019-03,2020-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HAVELLS,2020-03,2021-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+HAVELLS,2021-03,2022-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HAVELLS,2022-03,2023-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HAVELLS,2023-03,2024-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HCLTECH,2021-03,2022-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HCLTECH,2022-03,2023-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HDFCBANK,2013-03,2014-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+HDFCBANK,2014-03,2015-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+HDFCBANK,2016-03,2017-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+HDFCBANK,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+HDFCBANK,2018-03,2019-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+HDFCBANK,2020-03,2021-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+HDFCBANK,2021-03,2022-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+HDFCBANK,2022-03,2023-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+HDFCBANK,2023-03,2024-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HDFCLIFE,2014-03,2015-03,UNKNOWN,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HDFCLIFE,2019-03,2020-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+HDFCLIFE,2021-03,2022-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HDFCLIFE,2022-03,2023-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+HDFCLIFE,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HEROMOTOCO,2014-03,2015-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HEROMOTOCO,2015-03,2016-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HEROMOTOCO,2018-03,2019-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HEROMOTOCO,2019-03,2020-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HINDALCO,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HINDALCO,2017-03,2018-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HINDALCO,2018-03,2019-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HINDALCO,2019-03,2020-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+HINDALCO,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HINDUNILVR,2013-03,2014-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HINDUNILVR,2014-03,2015-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HINDUNILVR,2015-03,2016-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+HINDUNILVR,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+HINDUNILVR,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ICICIBANK,2014-03,2015-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+ICICIBANK,2015-03,2016-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+ICICIBANK,2016-03,2017-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ICICIBANK,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ICICIBANK,2018-03,2019-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ICICIBANK,2019-03,2020-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ICICIBANK,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ICICIBANK,2021-03,2022-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ICICIBANK,2022-03,2023-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+ICICIBANK,2023-03,2024-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+ICICIGI,2014-03,2015-03,Reinvestor / Raising Capital,Distress Asset Seller,Deterioration to Distress
+ICICIGI,2015-03,2016-03,Distress Asset Seller,Reinvestor / Debt Repayer,Recovery from Distress
+ICICIGI,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ICICIGI,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ICICIGI,2021-03,2022-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+ICICIGI,2022-03,2023-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ICICIPRULI,2014-03,2015-03,Distress Asset Seller,Reinvestor / Debt Repayer,Recovery from Distress
+ICICIPRULI,2015-03,2016-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+ICICIPRULI,2016-03,2017-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ICICIPRULI,2020-03,2021-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ICICIPRULI,2021-03,2022-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ICICIPRULI,2023-03,2024-03,Reinvestor / Debt Repayer,Distress Asset Seller,Deterioration to Distress
+INDIGO,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+INDIGO,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+INDIGO,2018-03,2019-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+INDIGO,2020-03,2021-03,Reinvestor / Debt Repayer,Distress Asset Seller,Deterioration to Distress
+INDIGO,2021-03,2022-03,Distress Asset Seller,Asset Seller / Debt Repayer,Recovery from Distress
+INDIGO,2022-03,2023-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+INDUSINDBK,2016-03,2017-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+INDUSINDBK,2017-03,2018-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+INDUSINDBK,2019-03,2020-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+INDUSINDBK,2020-03,2021-03,Distress Raising Cap/Selling Assets,Reinvestor / Debt Repayer,Recovery from Distress
+INDUSINDBK,2022-03,2023-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+INDUSINDBK,2023-03,2024-03,Distress Raising Capital,Distress Burning Cash,Neutral / Strategic
+INFY,2014-03,2015-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+INFY,2015-03,2016-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+INFY,2017-03,2018-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+INFY,2018-03,2019-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+IOC,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+IOC,2018-03,2019-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+IOC,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+IRCTC,2015-03,2016-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+IRCTC,2018-03,2019-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+IRCTC,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+IRCTC,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+IRFC,2015-03,2016-03,UNKNOWN,Distress Raising Cap/Selling Assets,Deterioration to Distress
+IRFC,2021-03,2022-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+IRFC,2022-03,2023-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+IRFC,2023-03,2024-03,Distress Raising Cap/Selling Assets,Reinvestor / Debt Repayer,Recovery from Distress
+ITC,2020-03,2021-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+ITC,2021-03,2022-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ITC,2023-03,2024-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+JINDALSTEL,2015-03,2016-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+JINDALSTEL,2023-03,2024-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+JIOFIN,2023-03,2024-03,Reinvestor / Debt Repayer,Distress Asset Seller,Deterioration to Distress
+JSWENERGY,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+JSWENERGY,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+JSWENERGY,2022-03,2023-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+JSWSTEEL,2013-03,2014-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+JSWSTEEL,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+JSWSTEEL,2018-03,2019-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+JSWSTEEL,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+KOTAKBANK,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+KOTAKBANK,2014-03,2015-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+KOTAKBANK,2017-03,2018-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+KOTAKBANK,2018-03,2019-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+KOTAKBANK,2019-03,2020-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+KOTAKBANK,2021-03,2022-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+KOTAKBANK,2022-03,2023-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+KOTAKBANK,2023-03,2024-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+LICI,2019-03,2020-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+LICI,2020-03,2021-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+LICI,2021-03,2022-03,Asset Seller / Debt Repayer,Distress Raising Cap/Selling Assets,Deterioration to Distress
+LICI,2022-03,2023-03,Distress Raising Cap/Selling Assets,Reinvestor / Debt Repayer,Recovery from Distress
+LODHA,2015-03,2016-03,UNKNOWN,Reinvestor / Raising Capital,Neutral / Strategic
+LODHA,2016-03,2017-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+LODHA,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+LODHA,2018-03,2019-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+LODHA,2019-03,2020-03,Distress Raising Capital,Asset Seller / Debt Repayer,Recovery from Distress
+LODHA,2023-03,2024-03,Asset Seller / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+LT,2016-03,2017-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+LT,2017-03,2018-03,Reinvestor / Raising Capital,Distress Raising Cap/Selling Assets,Deterioration to Distress
+LT,2018-03,2019-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+LT,2019-03,2020-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+LT,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+LT,2023-03,2024-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+LTIM,2013-03,2014-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+LTIM,2014-03,2015-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+M&M,2014-03,2015-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+M&M,2018-03,2019-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+M&M,2020-03,2021-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+M&M,2021-03,2022-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+M&M,2022-03,2023-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+MOTHERSON,2014-03,2015-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+MOTHERSON,2015-03,2016-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+MOTHERSON,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+MOTHERSON,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+MOTHERSON,2023-03,2024-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+NAUKRI,2013-03,2014-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+NAUKRI,2015-03,2016-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+NAUKRI,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+NAUKRI,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+NESTLEIND,2018-12,2019-12,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+NESTLEIND,2019-12,2020-12,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+NHPC,2019-03,2020-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+NHPC,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+NTPC,2013-03,2014-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+NTPC,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+NTPC,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ONGC,2013-03,2014-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ONGC,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+ONGC,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+ONGC,2018-03,2019-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+PFC,2014-03,2015-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+PFC,2016-03,2017-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+PFC,2017-03,2018-03,Reinvestor / Raising Capital,Distress Raising Cap/Selling Assets,Deterioration to Distress
+PFC,2018-03,2019-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+PFC,2020-03,2021-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+PFC,2021-03,2022-03,Distress Raising Cap/Selling Assets,Reinvestor / Debt Repayer,Recovery from Distress
+PFC,2022-03,2023-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+PIDILITIND,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+PIDILITIND,2017-03,2018-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+PIDILITIND,2018-03,2019-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+PIDILITIND,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+PIDILITIND,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+PNB,2013-03,2014-03,Distress Burning Cash,Reinvestor / Raising Capital,Recovery from Distress
+PNB,2016-03,2017-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+PNB,2017-03,2018-03,Asset Seller / Debt Repayer,Distress Raising Cap/Selling Assets,Deterioration to Distress
+PNB,2018-03,2019-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+PNB,2020-03,2021-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+PNB,2023-03,2024-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+POWERGRID,2018-03,2019-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+POWERGRID,2021-03,2022-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+POWERGRID,2022-03,2023-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+RECLTD,2015-03,2016-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+RECLTD,2016-03,2017-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+RECLTD,2017-03,2018-03,Reinvestor / Debt Repayer,Distress Raising Cap/Selling Assets,Deterioration to Distress
+RECLTD,2021-03,2022-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+RELIANCE,2015-03,2016-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+RELIANCE,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+RELIANCE,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+RELIANCE,2018-03,2019-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+RELIANCE,2019-03,2020-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+RELIANCE,2020-03,2021-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+RELIANCE,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SBILIFE,2020-03,2021-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+SBILIFE,2021-03,2022-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SBIN,2013-03,2014-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+SBIN,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SBIN,2015-03,2016-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+SBIN,2016-03,2017-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SBIN,2017-03,2018-03,Reinvestor / Debt Repayer,Distress Raising Cap/Selling Assets,Deterioration to Distress
+SBIN,2018-03,2019-03,Distress Raising Cap/Selling Assets,Asset Seller / Raising Capital,Recovery from Distress
+SBIN,2019-03,2020-03,Asset Seller / Raising Capital,Reinvestor / Raising Capital,Neutral / Strategic
+SBIN,2021-03,2022-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SBIN,2022-03,2023-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+SBIN,2023-03,2024-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+SHREECEM,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+SHREECEM,2018-03,2019-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SHREECEM,2019-03,2020-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+SHREECEM,2020-03,2021-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SHRIRAMFIN,2017-03,2018-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+SHRIRAMFIN,2018-03,2019-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+SHRIRAMFIN,2022-03,2023-03,Distress Raising Capital,Distress Raising Cap/Selling Assets,Neutral / Strategic
+SHRIRAMFIN,2023-03,2024-03,Distress Raising Cap/Selling Assets,Distress Raising Capital,Neutral / Strategic
+SIEMENS,2017-09,2018-09,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SIEMENS,2019-09,2020-09,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+SIEMENS,2020-09,2021-09,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SUNPHARMA,2013-03,2014-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+SUNPHARMA,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SUNPHARMA,2020-03,2021-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+SUNPHARMA,2021-03,2022-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+SUNPHARMA,2022-03,2023-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+SUNPHARMA,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATACONSUM,2013-03,2014-03,Asset Seller / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATACONSUM,2015-03,2016-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TATACONSUM,2017-03,2018-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATACONSUM,2018-03,2019-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TATACONSUM,2019-03,2020-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATACONSUM,2023-03,2024-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TATAMOTORS,2014-03,2015-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TATAMOTORS,2015-03,2016-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATAMOTORS,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TATAMOTORS,2021-03,2022-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATAPOWER,2016-03,2017-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TATAPOWER,2017-03,2018-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATAPOWER,2020-03,2021-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TATAPOWER,2021-03,2022-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATAPOWER,2022-03,2023-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TATAPOWER,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATASTEEL,2013-03,2014-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TATASTEEL,2014-03,2015-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TATASTEEL,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TATASTEEL,2018-03,2019-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TCS,2017-03,2018-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TCS,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TCS,2022-03,2023-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TECHM,2013-03,2014-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TECHM,2014-03,2015-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TECHM,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TECHM,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TECHM,2021-03,2022-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TECHM,2022-03,2023-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TITAN,2013-03,2014-03,Reinvestor / Debt Repayer,Distress Raising Capital,Deterioration to Distress
+TITAN,2014-03,2015-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+TITAN,2017-03,2018-03,Reinvestor / Debt Repayer,Distress Asset Seller,Deterioration to Distress
+TITAN,2018-03,2019-03,Distress Asset Seller,Reinvestor / Debt Repayer,Recovery from Distress
+TITAN,2019-03,2020-03,Reinvestor / Debt Repayer,Distress Asset Seller,Deterioration to Distress
+TITAN,2020-03,2021-03,Distress Asset Seller,Reinvestor / Debt Repayer,Recovery from Distress
+TITAN,2021-03,2022-03,Reinvestor / Debt Repayer,Distress Asset Seller,Deterioration to Distress
+TITAN,2022-03,2023-03,Distress Asset Seller,Reinvestor / Raising Capital,Recovery from Distress
+TITAN,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TORNTPHARM,2015-03,2016-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TORNTPHARM,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TORNTPHARM,2018-03,2019-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TORNTPHARM,2019-03,2020-03,Reinvestor / Debt Repayer,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TORNTPHARM,2020-03,2021-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TORNTPHARM,2022-03,2023-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TORNTPHARM,2023-03,2024-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TRENT,2013-03,2014-03,Reinvestor / Raising Capital,Distress Burning Cash,Deterioration to Distress
+TRENT,2014-03,2015-03,Distress Burning Cash,Distress Raising Capital,Neutral / Strategic
+TRENT,2015-03,2016-03,Distress Raising Capital,Reinvestor / Debt Repayer,Recovery from Distress
+TRENT,2018-03,2019-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TRENT,2020-03,2021-03,Reinvestor / Raising Capital,Asset Seller / Debt Repayer,Shift to Debt Repayment
+TRENT,2022-03,2023-03,Asset Seller / Debt Repayer,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TVSMOTOR,2014-03,2015-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TVSMOTOR,2015-03,2016-03,Reinvestor / Raising Capital,Reinvestor / Debt Repayer,Shift to Debt Repayment
+TVSMOTOR,2017-03,2018-03,Reinvestor / Debt Repayer,Reinvestor / Raising Capital,Neutral / Strategic
+TVSMOTOR,2018-03,2019-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
+TVSMOTOR,2019-03,2020-03,Distress Raising Capital,Reinvestor / Raising Capital,Recovery from Distress
+TVSMOTOR,2021-03,2022-03,Reinvestor / Raising Capital,Distress Raising Capital,Deterioration to Distress
